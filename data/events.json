@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T16:52:02.682Z",
+  "generatedAt": "2026-09-11T22:56:03.509Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,27 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "baby-lapsit-playtime-2026-09-10-12360",
-      "title": "Baby Lapsit & Playtime",
-      "description": null,
-      "startsAt": "2026-09-10T17:30:00.000Z",
-      "endsAt": "2026-09-10T19:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12360/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "teen-volunteer-club-with-silicon-valley-bike-exchange-2026-09-10-12389",
       "title": "Teen Volunteer Club with Silicon Valley Bike Exchange",
