@@ -1,0 +1,636 @@
+{
+  "generatedAt": "2026-09-10T23:59:55.270Z",
+  "runs": [
+    {
+      "sourceId": "sunnyvale-city",
+      "fetched": 64
+    },
+    {
+      "sourceId": "sunnyvale-library",
+      "fetched": 50
+    }
+  ],
+  "sources": [
+    {
+      "id": "sunnyvale-city",
+      "name": "City of Sunnyvale",
+      "jurisdiction": "Sunnyvale, CA",
+      "kind": "city",
+      "homepageUrl": "https://www.sunnyvale.ca.gov",
+      "logo": "/logos/sunnyvale.svg"
+    },
+    {
+      "id": "sunnyvale-library",
+      "name": "Sunnyvale Public Library",
+      "jurisdiction": "Sunnyvale, CA",
+      "kind": "library",
+      "homepageUrl": "https://www.library.sunnyvale.ca.gov",
+      "logo": "/logos/sunnyvale.svg"
+    }
+  ],
+  "events": [
+    {
+      "slug": "home-repair-workshop-basic-plumbing-2026-09-09-12967",
+      "title": "Home Repair Workshop: Basic Plumbing",
+      "description": null,
+      "startsAt": "2026-09-10T01:00:00.000Z",
+      "endsAt": "2026-09-10T02:30:00.000Z",
+      "allDay": false,
+      "eventType": "community-resources",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12967/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "baby-lapsit-playtime-2026-09-10-12360",
+      "title": "Baby Lapsit & Playtime",
+      "description": null,
+      "startsAt": "2026-09-10T17:30:00.000Z",
+      "endsAt": "2026-09-10T19:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12360/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "teen-volunteer-club-with-silicon-valley-bike-exchange-2026-09-10-12389",
+      "title": "Teen Volunteer Club with Silicon Valley Bike Exchange",
+      "description": null,
+      "startsAt": "2026-09-11T00:00:00.000Z",
+      "endsAt": "2026-09-11T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "volunteer",
+      "audience": "teens",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12389/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "adults-create-sewing-by-hand-2026-09-10-12634",
+      "title": "Adults Create: Sewing by Hand",
+      "description": null,
+      "startsAt": "2026-09-11T01:00:00.000Z",
+      "endsAt": "2026-09-11T02:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "adults",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12634/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "zumba-2026-09-10-12898",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-09-11T01:30:00.000Z",
+      "endsAt": "2026-09-11T03:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12898/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "night-owl-storytime-2026-09-10-12377",
+      "title": "Night Owl Storytime",
+      "description": null,
+      "startsAt": "2026-09-11T02:00:00.000Z",
+      "endsAt": "2026-09-11T03:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12377/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "bilingual-hebrew-english-storytime-2026-09-11-12551",
+      "title": "Bilingual Hebrew-English Storytime",
+      "description": null,
+      "startsAt": "2026-09-11T18:00:00.000Z",
+      "endsAt": "2026-09-11T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12551/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "kickstart-your-solo-travel-life-2026-09-11-12636",
+      "title": "Kickstart Your Solo Travel Life",
+      "description": null,
+      "startsAt": "2026-09-11T21:00:00.000Z",
+      "endsAt": "2026-09-11T22:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12636/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "youth-drop-in-basketball-2026-09-11-12287",
+      "title": "Youth Drop-In Basketball",
+      "description": null,
+      "startsAt": "2026-09-12T02:00:00.000Z",
+      "endsAt": "2026-09-12T03:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12287/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sunnyvale-farmers-market-2026-09-12-11425",
+      "title": "Sunnyvale Farmers' Market",
+      "description": null,
+      "startsAt": "2026-09-12T16:00:00.000Z",
+      "endsAt": "2026-09-12T17:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/11425/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "shd-fitfest-2026-09-12-12943",
+      "title": "SHD FitFest",
+      "description": null,
+      "startsAt": "2026-09-12T17:00:00.000Z",
+      "endsAt": "2026-09-12T18:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12943/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "master-gardeners-the-mysteries-of-purple-veggies-2026-09-12-12729",
+      "title": "Master Gardeners: The Mysteries of Purple Veggies",
+      "description": null,
+      "startsAt": "2026-09-12T17:30:00.000Z",
+      "endsAt": "2026-09-12T19:00:00.000Z",
+      "allDay": false,
+      "eventType": "nature-gardening",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12729/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "family-storytime-2026-09-12-12357",
+      "title": "Family Storytime",
+      "description": null,
+      "startsAt": "2026-09-12T18:00:00.000Z",
+      "endsAt": "2026-09-12T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12357/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "animal-assisted-happiness-farm-2026-09-13-11857",
+      "title": "Animal Assisted Happiness Farm",
+      "description": null,
+      "startsAt": "2026-09-13T17:00:00.000Z",
+      "endsAt": "2026-09-13T18:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/11857/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "mid-autumn-festival-storytime-and-craft-2026-09-13-12391",
+      "title": "Mid-Autumn Festival Storytime and Craft",
+      "description": null,
+      "startsAt": "2026-09-13T21:00:00.000Z",
+      "endsAt": "2026-09-13T22:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12391/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "asl-for-babies-2026-09-14-12393",
+      "title": "ASL for Babies",
+      "description": null,
+      "startsAt": "2026-09-14T18:00:00.000Z",
+      "endsAt": "2026-09-14T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12393/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "esl-conversation-group-2026-09-14-12638",
+      "title": "ESL Conversation Group",
+      "description": null,
+      "startsAt": "2026-09-14T21:00:00.000Z",
+      "endsAt": "2026-09-14T22:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-english",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12638/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "national-library-card-sign-up-month-2026-09-14-12555",
+      "title": "National Library Card Sign Up Month",
+      "description": null,
+      "startsAt": "2026-09-14T23:00:00.000Z",
+      "endsAt": "2026-09-15T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "self-directed",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12555/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "toddler-storytime-2026-09-15-12367",
+      "title": "Toddler Storytime",
+      "description": null,
+      "startsAt": "2026-09-15T18:00:00.000Z",
+      "endsAt": "2026-09-15T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12367/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "building-better-stronger-relationships-with-priya-parker-2026-09-15-12640",
+      "title": "Building Better, Stronger Relationships with Priya Parker",
+      "description": null,
+      "startsAt": "2026-09-15T20:00:00.000Z",
+      "endsAt": "2026-09-15T21:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12640/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "paws-to-read-2026-09-15-12395",
+      "title": "Paws to Read",
+      "description": null,
+      "startsAt": "2026-09-15T22:30:00.000Z",
+      "endsAt": "2026-09-16T00:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12395/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "zumba-2026-09-15-12897",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-09-16T01:30:00.000Z",
+      "endsAt": "2026-09-16T03:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12897/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-09-16-12839",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-09-16T17:00:00.000Z",
+      "endsAt": "2026-09-16T18:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12839/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "preschool-storytime-2026-09-16-12363",
+      "title": "Preschool Storytime",
+      "description": null,
+      "startsAt": "2026-09-16T18:00:00.000Z",
+      "endsAt": "2026-09-16T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12363/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "get-connected-2026-09-16-12104",
+      "title": "Get Connected",
+      "description": null,
+      "startsAt": "2026-09-16T21:00:00.000Z",
+      "endsAt": "2026-09-16T22:30:00.000Z",
+      "allDay": false,
+      "eventType": "computer-help",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12104/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "successfully-navigating-college-admissions-this-fall-2026-09-16-12397",
+      "title": "Successfully Navigating College Admissions This Fall",
+      "description": null,
+      "startsAt": "2026-09-16T23:30:00.000Z",
+      "endsAt": "2026-09-17T01:00:00.000Z",
+      "allDay": false,
+      "eventType": "academic-support",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12397/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "monthly-book-group-2026-09-16-12642",
+      "title": "Monthly Book Group",
+      "description": null,
+      "startsAt": "2026-09-17T02:00:00.000Z",
+      "endsAt": "2026-09-17T03:30:00.000Z",
+      "allDay": false,
+      "eventType": "books-authors",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12642/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "baby-lapsit-playtime-2026-09-17-12359",
+      "title": "Baby Lapsit & Playtime",
+      "description": null,
+      "startsAt": "2026-09-17T17:30:00.000Z",
+      "endsAt": "2026-09-17T19:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12359/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "shifting-from-surviving-to-thriving-with-yasmine-cheyenne-2026-09-17-12646",
+      "title": "Shifting from Surviving to Thriving with Yasmine Cheyenne",
+      "description": null,
+      "startsAt": "2026-09-17T18:00:00.000Z",
+      "endsAt": "2026-09-17T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12646/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    }
+  ]
+}

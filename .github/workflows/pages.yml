@@ -1,0 +1,69 @@
+name: pages
+
+# Builds the static site and publishes it to GitHub Pages.
+#
+# Runs on a code change, and again whenever the "ingest" workflow finishes —
+# a push made by a workflow does not itself trigger other workflows, so the
+# workflow_run trigger is what connects a fresh scrape to a fresh deploy.
+
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows: [ingest]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never let two deploys race. Queue instead of cancelling, so a scrape that
+# lands mid-deploy still gets published.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # A broken parser should stop a deploy, not reach the site.
+      - run: npm test
+
+      - uses: actions/configure-pages@v5
+
+      - name: Build
+        env:
+          # A project site lives at USER.github.io/REPO, so every link and
+          # asset needs that prefix. Derived from the repo name, so renaming
+          # the repo does not silently break every URL.
+          NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
+        run: npm run build
+
+      # Tells GitHub Pages not to run Jekyll, which would ignore _next/.
+      - run: touch out/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

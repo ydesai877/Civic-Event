@@ -1,0 +1,56 @@
+name: ingest
+
+# Scrapes the official calendars and commits the result as data/events.json.
+# It does not build the site — committing the file is what wakes up the
+# "pages" workflow, which rebuilds and publishes.
+
+on:
+  schedule:
+    # 06:00 and 14:00 Pacific. Twice a day is plenty: these calendars are
+    # published weeks ahead and rarely change.
+    - cron: "0 13,21 * * *"
+  workflow_dispatch:
+    inputs:
+      months:
+        description: "Months ahead to crawl"
+        required: false
+        default: "2"
+
+permissions:
+  # Needed to commit data/events.json back to the repo.
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # The Sunnyvale sites sit behind Akamai Bot Manager. The fetcher starts
+      # with plain HTTP and only launches this browser when it gets challenged.
+      - run: npx playwright install --with-deps chromium
+
+      - name: Scrape
+        run: npm run scrape -- --months=${{ inputs.months || '2' }}
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- data/events.json; then
+            echo "No changes — the calendars published nothing new."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/events.json
+          git commit -m "Update events ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git push

@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #fbfaf8;
+  --surface: #ffffff;
+  --border: #e4e0d8;
+  --text: #1c1a17;
+  --muted: #6b6558;
+  --accent: #1f5f4f;
+  --accent-soft: #e8f1ed;
+  --warn: #8a3b18;
+  --warn-soft: #fbeee6;
+
+  /* Audience palette — the card's left border.
+     Three hues only. "All ages" gets no color, because it is the absence of
+     a targeted audience, and three saturated hues stay tellable apart where
+     thirty would not.
+     Measured against the card surface (#ffffff light, #1d1c17 dark):
+       kids   5.01:1 light, 8.19:1 dark
+       teens  4.60:1 light, 8.21:1 dark
+       adults 6.35:1 light, 7.76:1 dark
+     All clear 4.5:1, so these work as text as well as borders.
+
+     Under simulated deuteranopia, green/orange and orange/blue stay well
+     apart. Green and blue separate by hue but barely by lightness, so that
+     one pair leans on the label — which is why every card names its
+     audience in text and the color is never the only cue. */
+  --aud-kids: #157f52;
+  --aud-teens: #b85c00;
+  --aud-adults: #1f5fae;
+  --aud-all: var(--border);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14130f;
+    --surface: #1d1c17;
+    --border: #33312a;
+    --text: #f0ede6;
+    --muted: #a19a89;
+    --accent: #7fc8b0;
+    --accent-soft: #1c2f29;
+    --warn: #e4a07a;
+    --warn-soft: #33221a;
+
+    /* Lightened for the dark ground; the hue relationships are unchanged. */
+    --aud-kids: #4fc98f;
+    --aud-teens: #f2a25c;
+    --aud-adults: #74b4f2;
+    --aud-all: var(--border);
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-border-1: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+}
+
+/* One class per audience so the border color is a data attribute, not a
+   conditional in the component. */
+.aud-kids { --aud: var(--aud-kids); }
+.aud-teens { --aud: var(--aud-teens); }
+.aud-adults { --aud: var(--aud-adults); }
+.aud-all { --aud: var(--aud-all); }
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+}

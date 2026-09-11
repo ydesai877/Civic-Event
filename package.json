@@ -1,0 +1,42 @@
+{
+  "name": "civic-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsx scripts/test.ts",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "db:push": "drizzle-kit push",
+    "ingest": "tsx src/ingest/run.ts",
+    "fixtures": "tsx scripts/build-fixtures.ts",
+    "scrape": "tsx scripts/export-json.ts",
+    "scrape:fixtures": "tsx scripts/export-json.ts --fixtures"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "drizzle-orm": "^0.45.2",
+    "next": "^15.5.24",
+    "pg": "^8.23.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zod": "^4.5.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.4.0",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.5",
+    "drizzle-kit": "^0.31.10",
+    "postcss": "^8.5.26",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.13",
+    "typescript": "5.9"
+  },
+  "type": "module"
+}
