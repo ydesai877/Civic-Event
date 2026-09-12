@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T15:58:01.401Z",
+  "generatedAt": "2026-09-12T22:45:45.702Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,48 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "bilingual-hebrew-english-storytime-2026-09-11-12551",
-      "title": "Bilingual Hebrew-English Storytime",
-      "description": null,
-      "startsAt": "2026-09-11T18:00:00.000Z",
-      "endsAt": "2026-09-11T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-a-language",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12551/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "kickstart-your-solo-travel-life-2026-09-11-12636",
-      "title": "Kickstart Your Solo Travel Life",
-      "description": null,
-      "startsAt": "2026-09-11T21:00:00.000Z",
-      "endsAt": "2026-09-11T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12636/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "kids-night-out-2026-09-11-13088",
       "title": "Kids Night Out",
