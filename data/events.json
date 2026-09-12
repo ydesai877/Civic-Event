@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:56:03.509Z",
+  "generatedAt": "2026-09-12T15:58:01.401Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,89 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "teen-volunteer-club-with-silicon-valley-bike-exchange-2026-09-10-12389",
-      "title": "Teen Volunteer Club with Silicon Valley Bike Exchange",
-      "description": null,
-      "startsAt": "2026-09-11T00:00:00.000Z",
-      "endsAt": "2026-09-11T01:30:00.000Z",
-      "allDay": false,
-      "eventType": "volunteer",
-      "audience": "teens",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12389/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "adults-create-sewing-by-hand-2026-09-10-12634",
-      "title": "Adults Create: Sewing by Hand",
-      "description": null,
-      "startsAt": "2026-09-11T01:00:00.000Z",
-      "endsAt": "2026-09-11T02:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "adults",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12634/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "zumba-2026-09-10-12898",
-      "title": "Zumba",
-      "description": null,
-      "startsAt": "2026-09-11T01:30:00.000Z",
-      "endsAt": "2026-09-11T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12898/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "night-owl-storytime-2026-09-10-12377",
-      "title": "Night Owl Storytime",
-      "description": null,
-      "startsAt": "2026-09-11T02:00:00.000Z",
-      "endsAt": "2026-09-11T03:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12377/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "bilingual-hebrew-english-storytime-2026-09-11-12551",
       "title": "Bilingual Hebrew-English Storytime",
