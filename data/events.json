@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T18:19:11.538Z",
+  "generatedAt": "2026-09-14T23:39:50.547Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "animal-assisted-happiness-farm-2026-09-13-11857",
-      "title": "Animal Assisted Happiness Farm",
-      "description": null,
-      "startsAt": "2026-09-13T17:00:00.000Z",
-      "endsAt": "2026-09-13T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/11857/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "mid-autumn-festival-storytime-and-craft-2026-09-13-12391",
-      "title": "Mid-Autumn Festival Storytime and Craft",
-      "description": null,
-      "startsAt": "2026-09-13T21:00:00.000Z",
-      "endsAt": "2026-09-13T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12391/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "costume-swap-donation-2026-09-14-13092",
       "title": "Costume Swap Donation",
