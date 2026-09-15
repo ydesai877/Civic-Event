@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T23:39:50.547Z",
+  "generatedAt": "2026-09-15T17:26:52.812Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 303
+      "fetched": 335
     },
     {
       "sourceId": "sunnyvale-library",
@@ -29,26 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "costume-swap-donation-2026-09-14-13092",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-14T15:30:00.000Z",
-      "endsAt": "2026-09-14T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13092/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "asl-for-babies-2026-09-14-12393",
       "title": "ASL for Babies",
@@ -728,6 +708,26 @@
       ]
     },
     {
+      "slug": "drop-in-yoga-2026-09-19-13181",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-09-19T16:15:00.000Z",
+      "endsAt": "2026-09-19T17:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13181/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "friends-of-the-sunnyvale-library-book-sale-2026-09-19-12656",
       "title": "Friends of the Sunnyvale Library Book Sale",
       "description": null,
@@ -767,6 +767,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-09-19-13217",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-09-19T19:30:00.000Z",
+      "endsAt": "2026-09-19T21:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13217/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -1015,6 +1035,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "medical-services-for-adults-2026-09-22-13146",
+      "title": "Medical Services for Adults",
+      "description": null,
+      "startsAt": "2026-09-22T23:00:00.000Z",
+      "endsAt": "2026-09-23T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "adults",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13146/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -1510,6 +1550,26 @@
       ]
     },
     {
+      "slug": "drop-in-yoga-2026-09-26-13180",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-09-26T16:15:00.000Z",
+      "endsAt": "2026-09-26T17:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13180/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "free-basketball-clinic-2026-09-26-12493",
       "title": "Free Basketball Clinic",
       "description": null,
@@ -1548,6 +1608,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-09-26-13216",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-09-26T19:30:00.000Z",
+      "endsAt": "2026-09-26T21:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13216/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -2248,6 +2328,26 @@
       ]
     },
     {
+      "slug": "drop-in-yoga-2026-10-03-13179",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-10-03T16:15:00.000Z",
+      "endsAt": "2026-10-03T17:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13179/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "family-storytime-2026-10-03-12583",
       "title": "Family Storytime",
       "description": null,
@@ -2266,6 +2366,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-10-03-13215",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-10-03T19:30:00.000Z",
+      "endsAt": "2026-10-03T21:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13215/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -2409,6 +2529,26 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13044/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "medical-services-for-adults-2026-10-06-13145",
+      "title": "Medical Services for Adults",
+      "description": null,
+      "startsAt": "2026-10-06T23:00:00.000Z",
+      "endsAt": "2026-10-07T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "adults",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13145/19",
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
@@ -2826,6 +2966,26 @@
       ]
     },
     {
+      "slug": "drop-in-yoga-2026-10-10-13178",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-10-10T16:15:00.000Z",
+      "endsAt": "2026-10-10T17:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13178/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "bike-safety-information-and-repair-workshop-2026-10-10-12857",
       "title": "Bike Safety Information and Repair Workshop",
       "description": null,
@@ -2886,6 +3046,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-10-10-13214",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-10-10T19:30:00.000Z",
+      "endsAt": "2026-10-10T21:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13214/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -3446,6 +3626,26 @@
       ]
     },
     {
+      "slug": "drop-in-yoga-2026-10-17-13177",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-10-17T16:15:00.000Z",
+      "endsAt": "2026-10-17T17:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13177/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "hands-on-the-arts-festival-2026-10-17-12567",
       "title": "Hands on the Arts Festival",
       "description": null,
@@ -3484,6 +3684,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-10-17-13213",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-10-17T19:30:00.000Z",
+      "endsAt": "2026-10-17T21:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13213/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -3693,6 +3913,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "medical-services-for-adults-2026-10-20-13144",
+      "title": "Medical Services for Adults",
+      "description": null,
+      "startsAt": "2026-10-20T23:00:00.000Z",
+      "endsAt": "2026-10-21T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "adults",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13144/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -3942,6 +4182,26 @@
       ]
     },
     {
+      "slug": "drop-in-yoga-2026-10-24-13176",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-10-24T16:15:00.000Z",
+      "endsAt": "2026-10-24T17:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13176/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "free-basketball-clinic-2026-10-24-12495",
       "title": "Free Basketball Clinic",
       "description": null,
@@ -3980,6 +4240,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-10-24-13212",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-10-24T19:30:00.000Z",
+      "endsAt": "2026-10-24T21:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13212/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -4475,6 +4755,26 @@
       ]
     },
     {
+      "slug": "drop-in-yoga-2026-10-31-13175",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-10-31T16:15:00.000Z",
+      "endsAt": "2026-10-31T17:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13175/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "family-storytime-2026-10-31-12588",
       "title": "Family Storytime",
       "description": null,
@@ -4493,6 +4793,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-10-31-13211",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-10-31T19:30:00.000Z",
+      "endsAt": "2026-10-31T21:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13211/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -4531,6 +4851,26 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13085/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "medical-services-for-adults-2026-11-03-13143",
+      "title": "Medical Services for Adults",
+      "description": null,
+      "startsAt": "2026-11-04T00:00:00.000Z",
+      "endsAt": "2026-11-04T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "adults",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13143/19",
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
@@ -4714,6 +5054,46 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/10465/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-yoga-2026-11-07-13174",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-11-07T17:15:00.000Z",
+      "endsAt": "2026-11-07T18:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13174/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-11-07-13210",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-11-07T20:30:00.000Z",
+      "endsAt": "2026-11-07T22:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13210/19",
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
@@ -4922,6 +5302,46 @@
       ]
     },
     {
+      "slug": "drop-in-yoga-2026-11-14-13173",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-11-14T17:15:00.000Z",
+      "endsAt": "2026-11-14T18:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13173/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-11-14-13209",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-11-14T20:30:00.000Z",
+      "endsAt": "2026-11-14T22:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13209/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "esl-conversation-group-2026-11-16-12846",
       "title": "ESL Conversation Group",
       "description": null,
@@ -4997,6 +5417,26 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12465/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "medical-services-for-adults-2026-11-17-13142",
+      "title": "Medical Services for Adults",
+      "description": null,
+      "startsAt": "2026-11-18T00:00:00.000Z",
+      "endsAt": "2026-11-18T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "adults",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13142/19",
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
@@ -5165,6 +5605,46 @@
       ]
     },
     {
+      "slug": "drop-in-yoga-2026-11-21-13172",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-11-21T17:15:00.000Z",
+      "endsAt": "2026-11-21T18:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13172/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-11-21-13208",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-11-21T20:30:00.000Z",
+      "endsAt": "2026-11-21T22:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13208/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "zumba-2026-11-24-12935",
       "title": "Zumba",
       "description": null,
@@ -5302,6 +5782,46 @@
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "drop-in-yoga-2026-11-28-13171",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-11-28T17:15:00.000Z",
+      "endsAt": "2026-11-28T18:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13171/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-11-28-13207",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-11-28T20:30:00.000Z",
+      "endsAt": "2026-11-28T22:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13207/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
