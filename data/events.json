@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-15T23:21:40.408Z",
+  "generatedAt": "2026-09-16T17:25:52.657Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 341
+      "fetched": 356
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 184
+      "fetched": 199
     }
   ],
   "sources": [
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "national-library-card-sign-up-month-2026-09-14-12555",
-      "title": "National Library Card Sign Up Month",
-      "description": null,
-      "startsAt": "2026-09-14T23:00:00.000Z",
-      "endsAt": "2026-09-15T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "self-directed",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12555/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "costume-swap-donation-2026-09-15-13109",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-15T15:30:00.000Z",
-      "endsAt": "2026-09-15T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13109/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "toddler-storytime-2026-09-15-12367",
       "title": "Toddler Storytime",
@@ -4921,6 +4880,27 @@
       ]
     },
     {
+      "slug": "toddler-storytime-2026-11-03-13236",
+      "title": "Toddler Storytime",
+      "description": null,
+      "startsAt": "2026-11-03T19:00:00.000Z",
+      "endsAt": "2026-11-03T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13236/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "fun-on-the-run-washington-park-2026-11-03-13085",
       "title": "Fun on the Run - Washington Park",
       "description": null,
@@ -5002,6 +4982,27 @@
       ]
     },
     {
+      "slug": "preschool-storytime-2026-11-04-13240",
+      "title": "Preschool Storytime",
+      "description": null,
+      "startsAt": "2026-11-04T19:00:00.000Z",
+      "endsAt": "2026-11-04T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13240/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "get-connected-2026-11-04-12097",
       "title": "Get Connected",
       "description": null,
@@ -5043,6 +5044,27 @@
       ]
     },
     {
+      "slug": "baby-lapsit-playtime-2026-11-05-13244",
+      "title": "Baby Lapsit & Playtime",
+      "description": null,
+      "startsAt": "2026-11-05T18:30:00.000Z",
+      "endsAt": "2026-11-05T20:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13244/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "fun-on-the-run-washington-park-2026-11-05-13086",
       "title": "Fun on the Run - Washington Park",
       "description": null,
@@ -5080,6 +5102,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "night-owl-storytime-2026-11-05-13248",
+      "title": "Night Owl Storytime",
+      "description": null,
+      "startsAt": "2026-11-06T03:00:00.000Z",
+      "endsAt": "2026-11-06T04:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13248/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5164,6 +5207,27 @@
       ]
     },
     {
+      "slug": "family-storytime-2026-11-07-13252",
+      "title": "Family Storytime",
+      "description": null,
+      "startsAt": "2026-11-07T19:00:00.000Z",
+      "endsAt": "2026-11-07T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13252/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "drop-in-pickleball-2026-11-07-13210",
       "title": "Drop-in Pickleball",
       "description": null,
@@ -5201,6 +5265,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "toddler-storytime-2026-11-10-13260",
+      "title": "Toddler Storytime",
+      "description": null,
+      "startsAt": "2026-11-10T19:00:00.000Z",
+      "endsAt": "2026-11-10T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13260/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5265,6 +5350,27 @@
       ]
     },
     {
+      "slug": "preschool-storytime-2026-11-11-13258",
+      "title": "Preschool Storytime",
+      "description": null,
+      "startsAt": "2026-11-11T19:00:00.000Z",
+      "endsAt": "2026-11-11T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13258/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "get-connected-2026-11-11-12096",
       "title": "Get Connected",
       "description": null,
@@ -5306,6 +5412,27 @@
       ]
     },
     {
+      "slug": "baby-lapsit-playtime-2026-11-12-13256",
+      "title": "Baby Lapsit & Playtime",
+      "description": null,
+      "startsAt": "2026-11-12T18:30:00.000Z",
+      "endsAt": "2026-11-12T20:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13256/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "fun-on-the-run-ponderosa-park-2026-11-12-13072",
       "title": "Fun on the Run - Ponderosa Park",
       "description": null,
@@ -5343,6 +5470,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "night-owl-storytime-2026-11-12-13254",
+      "title": "Night Owl Storytime",
+      "description": null,
+      "startsAt": "2026-11-13T03:00:00.000Z",
+      "endsAt": "2026-11-13T04:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13254/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5406,6 +5554,27 @@
       ]
     },
     {
+      "slug": "family-storytime-2026-11-14-13264",
+      "title": "Family Storytime",
+      "description": null,
+      "startsAt": "2026-11-14T19:00:00.000Z",
+      "endsAt": "2026-11-14T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13264/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "drop-in-pickleball-2026-11-14-13209",
       "title": "Drop-in Pickleball",
       "description": null,
@@ -5464,6 +5633,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "toddler-storytime-2026-11-17-13259",
+      "title": "Toddler Storytime",
+      "description": null,
+      "startsAt": "2026-11-17T19:00:00.000Z",
+      "endsAt": "2026-11-17T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13259/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5568,6 +5758,27 @@
       ]
     },
     {
+      "slug": "preschool-storytime-2026-11-18-13257",
+      "title": "Preschool Storytime",
+      "description": null,
+      "startsAt": "2026-11-18T19:00:00.000Z",
+      "endsAt": "2026-11-18T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13257/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "get-connected-2026-11-18-12095",
       "title": "Get Connected",
       "description": null,
@@ -5629,6 +5840,27 @@
       ]
     },
     {
+      "slug": "baby-lapsit-playtime-2026-11-19-13255",
+      "title": "Baby Lapsit & Playtime",
+      "description": null,
+      "startsAt": "2026-11-19T18:30:00.000Z",
+      "endsAt": "2026-11-19T20:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13255/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "fun-on-the-run-ponderosa-park-2026-11-19-13073",
       "title": "Fun on the Run - Ponderosa Park",
       "description": null,
@@ -5669,6 +5901,27 @@
       ]
     },
     {
+      "slug": "night-owl-storytime-2026-11-19-13253",
+      "title": "Night Owl Storytime",
+      "description": null,
+      "startsAt": "2026-11-20T03:00:00.000Z",
+      "endsAt": "2026-11-20T04:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13253/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "youth-drop-in-basketball-2026-11-20-12297",
       "title": "Youth Drop-In Basketball",
       "description": null,
@@ -5706,6 +5959,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "family-storytime-2026-11-21-13263",
+      "title": "Family Storytime",
+      "description": null,
+      "startsAt": "2026-11-21T19:00:00.000Z",
+      "endsAt": "2026-11-21T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13263/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
