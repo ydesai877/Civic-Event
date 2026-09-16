@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T17:25:52.657Z",
+  "generatedAt": "2026-09-16T23:29:05.952Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,88 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "toddler-storytime-2026-09-15-12367",
-      "title": "Toddler Storytime",
-      "description": null,
-      "startsAt": "2026-09-15T18:00:00.000Z",
-      "endsAt": "2026-09-15T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12367/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "building-better-stronger-relationships-with-priya-parker-2026-09-15-12640",
-      "title": "Building Better, Stronger Relationships with Priya Parker",
-      "description": null,
-      "startsAt": "2026-09-15T20:00:00.000Z",
-      "endsAt": "2026-09-15T21:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12640/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "free-fair-housing-webinar-for-landlords-2026-09-15-12999",
-      "title": "Free Fair Housing Webinar for Landlords",
-      "description": null,
-      "startsAt": "2026-09-15T20:30:00.000Z",
-      "endsAt": "2026-09-15T22:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12999/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-09-15-13028",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-09-15T21:15:00.000Z",
-      "endsAt": "2026-09-15T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13028/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "paws-to-read-2026-09-15-12395",
       "title": "Paws to Read",
