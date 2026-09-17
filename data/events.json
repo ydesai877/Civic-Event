@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:29:05.952Z",
+  "generatedAt": "2026-09-17T17:24:54.052Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,67 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "paws-to-read-2026-09-15-12395",
-      "title": "Paws to Read",
-      "description": null,
-      "startsAt": "2026-09-15T22:30:00.000Z",
-      "endsAt": "2026-09-16T00:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12395/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "zumba-2026-09-15-12897",
-      "title": "Zumba",
-      "description": null,
-      "startsAt": "2026-09-16T01:30:00.000Z",
-      "endsAt": "2026-09-16T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": true,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12897/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "costume-swap-donation-2026-09-16-13110",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-16T15:30:00.000Z",
-      "endsAt": "2026-09-16T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13110/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "sewing-lab-2026-09-16-12839",
       "title": "Sewing Lab",
