@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:24:54.052Z",
+  "generatedAt": "2026-09-17T23:19:28.725Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,89 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "sewing-lab-2026-09-16-12839",
-      "title": "Sewing Lab",
-      "description": null,
-      "startsAt": "2026-09-16T17:00:00.000Z",
-      "endsAt": "2026-09-16T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12839/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "preschool-storytime-2026-09-16-12363",
-      "title": "Preschool Storytime",
-      "description": null,
-      "startsAt": "2026-09-16T18:00:00.000Z",
-      "endsAt": "2026-09-16T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12363/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "get-connected-2026-09-16-12104",
-      "title": "Get Connected",
-      "description": null,
-      "startsAt": "2026-09-16T21:00:00.000Z",
-      "endsAt": "2026-09-16T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "computer-help",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12104/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-serra-park-2026-09-16-13001",
-      "title": "Fun on the Run - Serra Park",
-      "description": null,
-      "startsAt": "2026-09-16T21:15:00.000Z",
-      "endsAt": "2026-09-16T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13001/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "successfully-navigating-college-admissions-this-fall-2026-09-16-12397",
       "title": "Successfully Navigating College Admissions This Fall",
