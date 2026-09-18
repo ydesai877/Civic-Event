@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-18T16:53:20.064Z",
+  "generatedAt": "2026-09-18T22:57:55.641Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 356
+      "fetched": 360
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 199
+      "fetched": 200
     }
   ],
   "sources": [
@@ -29,88 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "costume-swap-donation-2026-09-17-13111",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-17T15:30:00.000Z",
-      "endsAt": "2026-09-17T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13111/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "baby-lapsit-playtime-2026-09-17-12359",
-      "title": "Baby Lapsit & Playtime",
-      "description": null,
-      "startsAt": "2026-09-17T17:30:00.000Z",
-      "endsAt": "2026-09-17T19:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12359/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "shifting-from-surviving-to-thriving-with-yasmine-cheyenne-2026-09-17-12646",
-      "title": "Shifting from Surviving to Thriving with Yasmine Cheyenne",
-      "description": null,
-      "startsAt": "2026-09-17T18:00:00.000Z",
-      "endsAt": "2026-09-17T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12646/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-09-17-13053",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-09-17T21:15:00.000Z",
-      "endsAt": "2026-09-17T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13053/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "diy-pinatas-2026-09-17-12399",
       "title": "DIY Piñatas",
@@ -4017,6 +3935,27 @@
       ]
     },
     {
+      "slug": "a-musical-altar-una-ofrenda-musical-2026-10-24-13266",
+      "title": "A Musical Altar - Una ofrenda musical",
+      "description": null,
+      "startsAt": "2026-10-24T22:00:00.000Z",
+      "endsAt": "2026-10-24T23:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13266/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "family-movie-elio-2026-10-25-12714",
       "title": "Family Movie: Elio",
       "description": null,
@@ -5735,6 +5674,46 @@
       ]
     },
     {
+      "slug": "fun-on-the-run-thanksgiving-break-2026-11-23-13268",
+      "title": "Fun on the Run - Thanksgiving Break",
+      "description": null,
+      "startsAt": "2026-11-23T22:00:00.000Z",
+      "endsAt": "2026-11-23T23:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13268/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-thanksgiving-break-2026-11-24-13272",
+      "title": "Fun on the Run - Thanksgiving Break",
+      "description": null,
+      "startsAt": "2026-11-24T22:00:00.000Z",
+      "endsAt": "2026-11-24T23:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13272/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "zumba-2026-11-24-12935",
       "title": "Zumba",
       "description": null,
@@ -5772,6 +5751,26 @@
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-thanksgiving-break-2026-11-25-13271",
+      "title": "Fun on the Run - Thanksgiving Break",
+      "description": null,
+      "startsAt": "2026-11-25T22:00:00.000Z",
+      "endsAt": "2026-11-25T23:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13271/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
