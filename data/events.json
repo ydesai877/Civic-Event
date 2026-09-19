@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:11:52.251Z",
+  "generatedAt": "2026-09-19T22:37:27.129Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,68 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "costume-swap-donation-2026-09-18-13112",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-18T15:30:00.000Z",
-      "endsAt": "2026-09-18T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13112/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "bilingual-spanish-english-storytime-craft-2026-09-18-12401",
-      "title": "Bilingual (Spanish/English) Storytime & Craft",
-      "description": null,
-      "startsAt": "2026-09-18T18:00:00.000Z",
-      "endsAt": "2026-09-18T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-a-language",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12401/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "senior-center-book-group-2026-09-18-12652",
-      "title": "Senior Center Book Group",
-      "description": null,
-      "startsAt": "2026-09-18T18:00:00.000Z",
-      "endsAt": "2026-09-18T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "books-authors",
-      "audience": "adults",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12652/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "club-de-lectura-en-espanol-spanish-book-club-2026-09-18-12654",
       "title": "Club de lectura en español / Spanish Book Club",
