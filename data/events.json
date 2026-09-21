@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T18:26:12.721Z",
+  "generatedAt": "2026-09-21T23:46:19.669Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,48 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "friends-of-the-sunnyvale-library-book-sale-2026-09-20-12658",
-      "title": "Friends of the Sunnyvale Library Book Sale",
-      "description": null,
-      "startsAt": "2026-09-20T19:00:00.000Z",
-      "endsAt": "2026-09-20T20:30:00.000Z",
-      "allDay": false,
-      "eventType": "book-sale",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12658/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "national-chicken-month-at-charles-street-gardens-2026-09-20-12403",
-      "title": "National Chicken Month at Charles Street Gardens",
-      "description": null,
-      "startsAt": "2026-09-20T21:00:00.000Z",
-      "endsAt": "2026-09-20T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12403/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "costume-swap-donation-2026-09-21-13115",
       "title": "Costume Swap Donation",
