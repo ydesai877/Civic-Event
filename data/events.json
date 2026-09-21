@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T22:52:55.317Z",
+  "generatedAt": "2026-09-21T18:26:12.721Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,26 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "costume-swap-donation-2026-09-20-13114",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-20T15:30:00.000Z",
-      "endsAt": "2026-09-20T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13114/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "friends-of-the-sunnyvale-library-book-sale-2026-09-20-12658",
       "title": "Friends of the Sunnyvale Library Book Sale",
