@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:29:40.975Z",
+  "generatedAt": "2026-09-22T23:25:35.306Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,48 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "cunamacue-afro-peruvian-dance-2026-09-21-12405",
-      "title": "Cunamacue Afro-Peruvian Dance",
-      "description": null,
-      "startsAt": "2026-09-21T18:00:00.000Z",
-      "endsAt": "2026-09-21T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "music-dance",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12405/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "esl-conversation-group-2026-09-21-12684",
-      "title": "ESL Conversation Group",
-      "description": null,
-      "startsAt": "2026-09-21T21:00:00.000Z",
-      "endsAt": "2026-09-21T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-english",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12684/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "mooncake-paper-craft-2026-09-21-13220",
       "title": "Mooncake Paper Craft",
