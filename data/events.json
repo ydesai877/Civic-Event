@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:46:19.669Z",
+  "generatedAt": "2026-09-22T17:29:40.975Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -7,7 +7,7 @@
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 200
+      "fetched": 201
     }
   ],
   "sources": [
@@ -29,26 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "costume-swap-donation-2026-09-21-13115",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-21T15:30:00.000Z",
-      "endsAt": "2026-09-21T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13115/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "cunamacue-afro-peruvian-dance-2026-09-21-12405",
       "title": "Cunamacue Afro-Peruvian Dance",
@@ -4158,6 +4138,26 @@
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "muwekma-ohlone-tribe-2026-11-02-13274",
+      "title": "Muwekma Ohlone Tribe",
+      "description": null,
+      "startsAt": "2026-11-03T00:00:00.000Z",
+      "endsAt": "2026-11-03T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13274/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
         "sunnyvale-library"
       ]
     },
