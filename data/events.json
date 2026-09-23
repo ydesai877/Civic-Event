@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T17:39:03.966Z",
+  "generatedAt": "2026-09-23T23:24:10.567Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 382
+      "fetched": 393
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 201
+      "fetched": 220
     }
   ],
   "sources": [
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "toddler-storytime-2026-09-22-12366",
-      "title": "Toddler Storytime",
-      "description": null,
-      "startsAt": "2026-09-22T18:00:00.000Z",
-      "endsAt": "2026-09-22T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12366/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-09-22-13042",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-09-22T21:15:00.000Z",
-      "endsAt": "2026-09-22T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13042/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "monkey-king-on-fingertips-2026-09-22-12561",
       "title": "Monkey King on Fingertips",
@@ -809,26 +768,6 @@
       ]
     },
     {
-      "slug": "safe-routes-to-school-working-group-meeting-with-cupertino-union-schoo-2026-09-28-12441",
-      "title": "Safe Routes to School Working Group Meeting with Cupertino Union School District",
-      "description": null,
-      "startsAt": "2026-09-28T23:00:00.000Z",
-      "endsAt": "2026-09-29T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "community-resources",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12441/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
       "slug": "costume-design-talk-2026-09-28-12743",
       "title": "Costume Design Talk",
       "description": null,
@@ -905,26 +844,6 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13043/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "safe-routes-to-school-working-group-meeting-with-santa-clara-unified-2026-09-29-12463",
-      "title": "Safe Routes to School Working Group Meeting with Santa Clara Unified",
-      "description": null,
-      "startsAt": "2026-09-29T23:00:00.000Z",
-      "endsAt": "2026-09-30T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "community-resources",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12463/19",
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
@@ -1112,26 +1031,6 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "safe-routes-to-school-working-group-meeting-with-sunnyvale-school-dist-2026-09-30-12482",
-      "title": "Safe Routes to School Working Group Meeting with Sunnyvale School District",
-      "description": null,
-      "startsAt": "2026-09-30T23:00:00.000Z",
-      "endsAt": "2026-10-01T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "community-resources",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12482/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
       ]
     },
     {
@@ -2059,6 +1958,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "pokemon-party-2026-10-09-13374",
+      "title": "Pokémon Party",
+      "description": null,
+      "startsAt": "2026-10-09T22:00:00.000Z",
+      "endsAt": "2026-10-09T23:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13374/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -3684,26 +3604,6 @@
       ]
     },
     {
-      "slug": "safe-routes-to-school-working-group-meeting-with-cupertino-union-schoo-2026-10-26-12442",
-      "title": "Safe Routes to School Working Group Meeting with Cupertino Union School District",
-      "description": null,
-      "startsAt": "2026-10-26T23:00:00.000Z",
-      "endsAt": "2026-10-27T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "community-resources",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12442/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
       "slug": "pumpkin-painting-2026-10-26-12716",
       "title": "Pumpkin Painting",
       "description": null,
@@ -3780,26 +3680,6 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13080/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "safe-routes-to-school-working-group-meeting-with-santa-clara-unified-2026-10-27-12464",
-      "title": "Safe Routes to School Working Group Meeting with Santa Clara Unified",
-      "description": null,
-      "startsAt": "2026-10-27T23:00:00.000Z",
-      "endsAt": "2026-10-28T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "community-resources",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12464/19",
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
@@ -3929,26 +3809,6 @@
       ]
     },
     {
-      "slug": "safe-routes-to-school-working-group-meeting-with-sunnyvale-school-dist-2026-10-28-12483",
-      "title": "Safe Routes to School Working Group Meeting with Sunnyvale School District",
-      "description": null,
-      "startsAt": "2026-10-28T23:00:00.000Z",
-      "endsAt": "2026-10-29T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "community-resources",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12483/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
       "slug": "spooky-storywalk-2026-10-28-12565",
       "title": "Spooky StoryWalk®",
       "description": null,
@@ -3988,6 +3848,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "safe-routes-to-school-working-group-meeting-2026-10-28-13372",
+      "title": "Safe Routes to School: Working Group Meeting",
+      "description": null,
+      "startsAt": "2026-10-28T23:00:00.000Z",
+      "endsAt": "2026-10-29T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "community-resources",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13372/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -4522,6 +4402,27 @@
       ]
     },
     {
+      "slug": "teens-create-tote-bag-painting-2026-11-05-13344",
+      "title": "Teens Create: Tote Bag Painting",
+      "description": null,
+      "startsAt": "2026-11-06T01:00:00.000Z",
+      "endsAt": "2026-11-06T02:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "teens",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13344/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "zumba-2026-11-05-12909",
       "title": "Zumba",
       "description": null,
@@ -4601,6 +4502,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "storytime-at-magical-bridge-playground-2026-11-06-13346",
+      "title": "Storytime at Magical Bridge Playground",
+      "description": null,
+      "startsAt": "2026-11-06T19:00:00.000Z",
+      "endsAt": "2026-11-06T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13346/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -4705,6 +4627,27 @@
       ]
     },
     {
+      "slug": "learn-to-crochet-2026-11-07-13348",
+      "title": "Learn to Crochet",
+      "description": null,
+      "startsAt": "2026-11-08T00:00:00.000Z",
+      "endsAt": "2026-11-08T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13348/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "animal-assisted-happiness-farm-2026-11-08-11859",
       "title": "Animal Assisted Happiness Farm",
       "description": null,
@@ -4742,6 +4685,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "asl-for-babies-2026-11-09-13350",
+      "title": "ASL for Babies",
+      "description": null,
+      "startsAt": "2026-11-09T19:00:00.000Z",
+      "endsAt": "2026-11-09T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13350/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -4803,6 +4767,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "lego-builders-2026-11-10-13352",
+      "title": "Lego Builders",
+      "description": null,
+      "startsAt": "2026-11-11T00:00:00.000Z",
+      "endsAt": "2026-11-11T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13352/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -4950,6 +4935,48 @@
       ]
     },
     {
+      "slug": "coding-club-2026-11-12-13354",
+      "title": "Coding Club",
+      "description": null,
+      "startsAt": "2026-11-13T00:00:00.000Z",
+      "endsAt": "2026-11-13T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "coding",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13354/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "teen-volunteer-club-with-letters-against-isolation-2026-11-12-13356",
+      "title": "Teen Volunteer Club with Letters Against Isolation",
+      "description": null,
+      "startsAt": "2026-11-13T01:00:00.000Z",
+      "endsAt": "2026-11-13T02:30:00.000Z",
+      "allDay": false,
+      "eventType": "volunteer",
+      "audience": "teens",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13356/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "zumba-2026-11-12-12938",
       "title": "Zumba",
       "description": null,
@@ -5008,6 +5035,48 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sensory-storytime-2026-11-13-13358",
+      "title": "Sensory Storytime",
+      "description": null,
+      "startsAt": "2026-11-13T19:00:00.000Z",
+      "endsAt": "2026-11-13T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13358/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "pour-pattern-create-hands-on-sand-art-2026-11-13-13360",
+      "title": "Pour, Pattern, Create: Hands-On Sand Art",
+      "description": null,
+      "startsAt": "2026-11-14T00:00:00.000Z",
+      "endsAt": "2026-11-14T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13360/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5112,6 +5181,27 @@
       ]
     },
     {
+      "slug": "bilingual-spanish-english-storytime-craft-2026-11-16-13362",
+      "title": "Bilingual (Spanish/English) Storytime & Craft",
+      "description": null,
+      "startsAt": "2026-11-16T19:00:00.000Z",
+      "endsAt": "2026-11-16T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13362/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "esl-conversation-group-2026-11-16-12846",
       "title": "ESL Conversation Group",
       "description": null,
@@ -5133,23 +5223,24 @@
       ]
     },
     {
-      "slug": "safe-routes-to-school-working-group-meeting-with-cupertino-union-schoo-2026-11-16-12443",
-      "title": "Safe Routes to School Working Group Meeting with Cupertino Union School District",
+      "slug": "mad-science-mondays-diy-hydraulic-crane-lift-2026-11-16-13364",
+      "title": "Mad Science Mondays: DIY Hydraulic Crane Lift",
       "description": null,
       "startsAt": "2026-11-17T00:00:00.000Z",
       "endsAt": "2026-11-17T01:30:00.000Z",
       "allDay": false,
-      "eventType": "community-resources",
+      "eventType": "steam",
       "audience": "all",
-      "typeSource": "publisher",
+      "typeSource": "inferred",
       "audienceSource": "inferred",
-      "locationText": null,
+      "locationText": "Sunnyvale Public Library",
       "isOnline": false,
       "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12443/19",
-      "primarySourceId": "sunnyvale-city",
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13364/74",
+      "primarySourceId": "sunnyvale-library",
       "sourceIds": [
-        "sunnyvale-city"
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5214,23 +5305,24 @@
       ]
     },
     {
-      "slug": "safe-routes-to-school-working-group-meeting-with-santa-clara-unified-2026-11-17-12465",
-      "title": "Safe Routes to School Working Group Meeting with Santa Clara Unified",
+      "slug": "paws-to-read-2026-11-17-13366",
+      "title": "Paws to Read",
       "description": null,
-      "startsAt": "2026-11-18T00:00:00.000Z",
-      "endsAt": "2026-11-18T01:30:00.000Z",
+      "startsAt": "2026-11-17T23:30:00.000Z",
+      "endsAt": "2026-11-18T01:00:00.000Z",
       "allDay": false,
-      "eventType": "community-resources",
-      "audience": "all",
-      "typeSource": "publisher",
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
       "audienceSource": "inferred",
-      "locationText": null,
+      "locationText": "Sunnyvale Public Library",
       "isOnline": false,
       "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12465/19",
-      "primarySourceId": "sunnyvale-city",
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "primarySourceId": "sunnyvale-library",
       "sourceIds": [
-        "sunnyvale-city"
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5357,23 +5449,24 @@
       ]
     },
     {
-      "slug": "safe-routes-to-school-working-group-meeting-with-sunnyvale-school-dist-2026-11-18-12484",
-      "title": "Safe Routes to School Working Group Meeting with Sunnyvale School District",
+      "slug": "paws-to-read-2026-11-18-13366",
+      "title": "Paws to Read",
       "description": null,
-      "startsAt": "2026-11-19T00:00:00.000Z",
-      "endsAt": "2026-11-19T01:30:00.000Z",
+      "startsAt": "2026-11-18T23:30:00.000Z",
+      "endsAt": "2026-11-19T01:00:00.000Z",
       "allDay": false,
-      "eventType": "community-resources",
-      "audience": "all",
-      "typeSource": "publisher",
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
       "audienceSource": "inferred",
-      "locationText": null,
+      "locationText": "Sunnyvale Public Library",
       "isOnline": false,
       "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12484/19",
-      "primarySourceId": "sunnyvale-city",
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "primarySourceId": "sunnyvale-library",
       "sourceIds": [
-        "sunnyvale-city"
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5415,6 +5508,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "paws-to-read-2026-11-19-13366",
+      "title": "Paws to Read",
+      "description": null,
+      "startsAt": "2026-11-19T23:30:00.000Z",
+      "endsAt": "2026-11-20T01:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5476,6 +5590,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "paws-to-read-2026-11-20-13366",
+      "title": "Paws to Read",
+      "description": null,
+      "startsAt": "2026-11-20T23:30:00.000Z",
+      "endsAt": "2026-11-21T01:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5560,6 +5695,48 @@
       ]
     },
     {
+      "slug": "paws-to-read-2026-11-21-13366",
+      "title": "Paws to Read",
+      "description": null,
+      "startsAt": "2026-11-21T23:30:00.000Z",
+      "endsAt": "2026-11-22T01:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "paws-to-read-2026-11-22-13366",
+      "title": "Paws to Read",
+      "description": null,
+      "startsAt": "2026-11-22T23:30:00.000Z",
+      "endsAt": "2026-11-23T01:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "fun-on-the-run-thanksgiving-break-2026-11-23-13268",
       "title": "Fun on the Run - Thanksgiving Break",
       "description": null,
@@ -5577,6 +5754,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "paws-to-read-2026-11-23-13366",
+      "title": "Paws to Read",
+      "description": null,
+      "startsAt": "2026-11-23T23:30:00.000Z",
+      "endsAt": "2026-11-24T01:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
