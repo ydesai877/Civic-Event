@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:24:10.567Z",
+  "generatedAt": "2026-09-24T17:42:43.799Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,108 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "monkey-king-on-fingertips-2026-09-22-12561",
-      "title": "Monkey King on Fingertips",
-      "description": null,
-      "startsAt": "2026-09-22T23:00:00.000Z",
-      "endsAt": "2026-09-23T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12561/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "medical-services-for-adults-2026-09-22-13146",
-      "title": "Medical Services for Adults",
-      "description": null,
-      "startsAt": "2026-09-22T23:00:00.000Z",
-      "endsAt": "2026-09-23T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "adults",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": true,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13146/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "death-cafe-2026-09-22-12731",
-      "title": "Death Café",
-      "description": null,
-      "startsAt": "2026-09-23T01:30:00.000Z",
-      "endsAt": "2026-09-23T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12731/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "zumba-2026-09-22-12895",
-      "title": "Zumba",
-      "description": null,
-      "startsAt": "2026-09-23T01:30:00.000Z",
-      "endsAt": "2026-09-23T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12895/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "costume-swap-donation-2026-09-23-13117",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-23T15:30:00.000Z",
-      "endsAt": "2026-09-23T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13117/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "sewing-lab-2026-09-23-12838",
       "title": "Sewing Lab",
