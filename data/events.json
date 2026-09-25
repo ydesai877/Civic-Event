@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T17:43:02.027Z",
+  "generatedAt": "2026-09-25T23:45:37.761Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 399
+      "fetched": 398
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 226
+      "fetched": 225
     }
   ],
   "sources": [
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "baby-lapsit-playtime-2026-09-24-12358",
-      "title": "Baby Lapsit & Playtime",
-      "description": null,
-      "startsAt": "2026-09-24T17:30:00.000Z",
-      "endsAt": "2026-09-24T19:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12358/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-09-24-13067",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-09-24T21:15:00.000Z",
-      "endsAt": "2026-09-24T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13067/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "coding-club-2026-09-24-12411",
       "title": "Coding Club",
@@ -5308,27 +5267,6 @@
       ]
     },
     {
-      "slug": "paws-to-read-2026-11-18-13366",
-      "title": "Paws to Read",
-      "description": null,
-      "startsAt": "2026-11-18T23:30:00.000Z",
-      "endsAt": "2026-11-19T01:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
       "slug": "successfully-navigating-college-admissions-this-fall-2026-11-18-13386",
       "title": "Successfully Navigating College Admissions This Fall",
       "description": null,
@@ -5391,27 +5329,6 @@
       ]
     },
     {
-      "slug": "paws-to-read-2026-11-19-13366",
-      "title": "Paws to Read",
-      "description": null,
-      "startsAt": "2026-11-19T23:30:00.000Z",
-      "endsAt": "2026-11-20T01:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
       "slug": "zumba-2026-11-19-12936",
       "title": "Zumba",
       "description": null,
@@ -5470,27 +5387,6 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "paws-to-read-2026-11-20-13366",
-      "title": "Paws to Read",
-      "description": null,
-      "startsAt": "2026-11-20T23:30:00.000Z",
-      "endsAt": "2026-11-21T01:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
       ]
     },
     {
@@ -5575,41 +5471,20 @@
       ]
     },
     {
-      "slug": "paws-to-read-2026-11-21-13366",
-      "title": "Paws to Read",
+      "slug": "japanese-storytime-2026-11-23-13388",
+      "title": "Japanese Storytime",
       "description": null,
-      "startsAt": "2026-11-21T23:30:00.000Z",
-      "endsAt": "2026-11-22T01:00:00.000Z",
+      "startsAt": "2026-11-23T19:00:00.000Z",
+      "endsAt": "2026-11-23T20:30:00.000Z",
       "allDay": false,
-      "eventType": "storytime",
+      "eventType": "learn-a-language",
       "audience": "kids",
       "typeSource": "inferred",
       "audienceSource": "inferred",
       "locationText": "Sunnyvale Public Library",
       "isOnline": false,
       "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "paws-to-read-2026-11-22-13366",
-      "title": "Paws to Read",
-      "description": null,
-      "startsAt": "2026-11-22T23:30:00.000Z",
-      "endsAt": "2026-11-23T01:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13388/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -5637,20 +5512,20 @@
       ]
     },
     {
-      "slug": "paws-to-read-2026-11-23-13366",
-      "title": "Paws to Read",
+      "slug": "early-learning-playtime-2026-11-23-13390",
+      "title": "Early Learning Playtime",
       "description": null,
-      "startsAt": "2026-11-23T23:30:00.000Z",
-      "endsAt": "2026-11-24T01:00:00.000Z",
+      "startsAt": "2026-11-23T23:00:00.000Z",
+      "endsAt": "2026-11-24T00:30:00.000Z",
       "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
+      "eventType": "uncategorized",
+      "audience": "all",
       "typeSource": "inferred",
       "audienceSource": "inferred",
       "locationText": "Sunnyvale Public Library",
       "isOnline": false,
       "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13390/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -5755,6 +5630,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "kids-graphic-novel-club-2026-11-25-13392",
+      "title": "Kids Graphic Novel Club",
+      "description": null,
+      "startsAt": "2026-11-26T00:00:00.000Z",
+      "endsAt": "2026-11-26T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "graphic-novels",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13392/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5915,6 +5811,48 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "family-movie-hoppers-2026-11-29-13396",
+      "title": "Family Movie: Hoppers",
+      "description": null,
+      "startsAt": "2026-11-29T22:00:00.000Z",
+      "endsAt": "2026-11-29T23:30:00.000Z",
+      "allDay": false,
+      "eventType": "music-dance",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13396/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "music-and-movement-with-jamaroo-bilingual-mandarin-cantonese-and-engli-2026-11-30-13394",
+      "title": "Music and Movement with JAMaROO (Bilingual Mandarin/Cantonese and English)",
+      "description": null,
+      "startsAt": "2026-11-30T19:00:00.000Z",
+      "endsAt": "2026-11-30T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13394/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
