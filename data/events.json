@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T23:43:35.419Z",
+  "generatedAt": "2026-09-25T17:43:02.027Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 393
+      "fetched": 399
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 220
+      "fetched": 226
     }
   ],
   "sources": [
@@ -29,67 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "the-chismosas-only-book-club-event-with-author-laekan-zea-kemp-2026-09-23-12409",
-      "title": "The Chismosas Only Book Club event with Author Laekan Zea Kemp",
-      "description": null,
-      "startsAt": "2026-09-23T23:00:00.000Z",
-      "endsAt": "2026-09-24T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "books-authors",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12409/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "family-harvest-food-giveaway-program-2026-09-23-11928",
-      "title": "Family Harvest Food Giveaway Program",
-      "description": null,
-      "startsAt": "2026-09-23T23:15:00.000Z",
-      "endsAt": "2026-09-24T00:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/11928/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "costume-swap-donation-2026-09-24-13118",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-24T15:30:00.000Z",
-      "endsAt": "2026-09-24T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13118/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "baby-lapsit-playtime-2026-09-24-12358",
       "title": "Baby Lapsit & Playtime",
@@ -3398,6 +3337,27 @@
       ]
     },
     {
+      "slug": "french-bilingual-storytime-2026-10-26-13376",
+      "title": "French Bilingual Storytime",
+      "description": null,
+      "startsAt": "2026-10-26T18:00:00.000Z",
+      "endsAt": "2026-10-26T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13376/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "esl-conversation-group-2026-10-26-12955",
       "title": "ESL Conversation Group",
       "description": null,
@@ -4073,6 +4033,27 @@
       ]
     },
     {
+      "slug": "thanksgiving-cards-2026-11-03-13378",
+      "title": "Thanksgiving Cards",
+      "description": null,
+      "startsAt": "2026-11-04T00:00:00.000Z",
+      "endsAt": "2026-11-04T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13378/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "zumba-2026-11-03-12883",
       "title": "Zumba",
       "description": null,
@@ -4217,6 +4198,27 @@
       ]
     },
     {
+      "slug": "stuffed-animal-tea-party-2026-11-05-13380",
+      "title": "Stuffed Animal Tea Party",
+      "description": null,
+      "startsAt": "2026-11-06T00:00:00.000Z",
+      "endsAt": "2026-11-06T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13380/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "teens-create-tote-bag-painting-2026-11-05-13344",
       "title": "Teens Create: Tote Bag Painting",
       "description": null,
@@ -4334,6 +4336,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13346/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "diwali-story-and-dance-2026-11-06-13382",
+      "title": "Diwali Story and Dance",
+      "description": null,
+      "startsAt": "2026-11-07T00:00:00.000Z",
+      "endsAt": "2026-11-07T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "music-dance",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13382/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -4517,6 +4540,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13350/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "veteran-s-day-author-visit-2026-11-09-13384",
+      "title": "Veteran's Day Author Visit",
+      "description": null,
+      "startsAt": "2026-11-10T00:00:00.000Z",
+      "endsAt": "2026-11-10T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "books-authors",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13384/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -5278,6 +5322,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13366/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "successfully-navigating-college-admissions-this-fall-2026-11-18-13386",
+      "title": "Successfully Navigating College Admissions This Fall",
+      "description": null,
+      "startsAt": "2026-11-19T00:30:00.000Z",
+      "endsAt": "2026-11-19T02:00:00.000Z",
+      "allDay": false,
+      "eventType": "academic-support",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13386/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
