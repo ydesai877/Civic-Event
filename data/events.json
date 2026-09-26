@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T23:45:37.761Z",
+  "generatedAt": "2026-09-26T16:51:24.859Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 398
+      "fetched": 402
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 225
+      "fetched": 229
     }
   ],
   "sources": [
@@ -29,130 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "coding-club-2026-09-24-12411",
-      "title": "Coding Club",
-      "description": null,
-      "startsAt": "2026-09-24T23:00:00.000Z",
-      "endsAt": "2026-09-25T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "coding",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12411/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "where-the-paletero-man-goes-a-journey-of-neighborhood-music-and-art-wi-2026-09-24-12983",
-      "title": "Where the Paletero Man Goes: A Journey of Neighborhood, Music, and Art with Lucky Diaz",
-      "description": null,
-      "startsAt": "2026-09-24T23:00:00.000Z",
-      "endsAt": "2026-09-25T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "music-dance",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12983/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "paletero-man-un-viaje-por-el-barrio-la-musica-y-el-arte-con-lucky-diaz-2026-09-24-12985",
-      "title": "Paletero Man: un viaje por el barrio, la música y el arte con Lucky Diaz",
-      "description": null,
-      "startsAt": "2026-09-25T00:00:00.000Z",
-      "endsAt": "2026-09-25T01:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12985/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "summer-orchard-music-series-2026-09-24-12993",
-      "title": "Summer Orchard Music Series",
-      "description": null,
-      "startsAt": "2026-09-25T01:00:00.000Z",
-      "endsAt": "2026-09-25T02:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12993/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "zumba-2026-09-24-12894",
-      "title": "Zumba",
-      "description": null,
-      "startsAt": "2026-09-25T01:30:00.000Z",
-      "endsAt": "2026-09-25T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12894/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "night-owl-storytime-2026-09-24-12375",
-      "title": "Night Owl Storytime",
-      "description": null,
-      "startsAt": "2026-09-25T02:00:00.000Z",
-      "endsAt": "2026-09-25T03:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12375/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "costume-swap-donation-2026-09-25-13119",
       "title": "Costume Swap Donation",
@@ -2146,6 +2022,27 @@
       ]
     },
     {
+      "slug": "loteria-game-night-2026-10-13-13398",
+      "title": "Lotería Game Night!",
+      "description": null,
+      "startsAt": "2026-10-14T01:30:00.000Z",
+      "endsAt": "2026-10-14T03:00:00.000Z",
+      "allDay": false,
+      "eventType": "games-entertainment",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13398/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "sewing-lab-2026-10-14-12835",
       "title": "Sewing Lab",
       "description": null,
@@ -2284,6 +2181,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12569/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "financial-literacy-part-1-basic-concepts-banking-budgeting-2026-10-14-13400",
+      "title": "Financial Literacy, Part 1: Basic Concepts, Banking, Budgeting",
+      "description": null,
+      "startsAt": "2026-10-15T01:30:00.000Z",
+      "endsAt": "2026-10-15T03:00:00.000Z",
+      "allDay": false,
+      "eventType": "writing-literacy",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13400/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -3359,6 +3277,27 @@
       ]
     },
     {
+      "slug": "financial-literacy-part-2-loan-management-and-investment-strategy-2026-10-26-13402",
+      "title": "Financial Literacy, Part 2: Loan Management and Investment Strategy",
+      "description": null,
+      "startsAt": "2026-10-27T01:30:00.000Z",
+      "endsAt": "2026-10-27T03:00:00.000Z",
+      "allDay": false,
+      "eventType": "writing-literacy",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13402/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "ask-a-master-gardener-2026-10-27-13332",
       "title": "Ask a Master Gardener",
       "description": null,
@@ -3622,6 +3561,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "financial-literacy-part-3-investment-strategy-concluded-2026-10-28-13404",
+      "title": "Financial Literacy, Part 3: Investment Strategy (Concluded)",
+      "description": null,
+      "startsAt": "2026-10-29T01:30:00.000Z",
+      "endsAt": "2026-10-29T03:00:00.000Z",
+      "allDay": false,
+      "eventType": "writing-literacy",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13404/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
