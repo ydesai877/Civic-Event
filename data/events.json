@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T16:51:24.859Z",
+  "generatedAt": "2026-09-26T23:19:49.631Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "costume-swap-donation-2026-09-25-13119",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-25T15:30:00.000Z",
-      "endsAt": "2026-09-25T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13119/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "japanese-storytime-2026-09-25-12413",
-      "title": "Japanese Storytime",
-      "description": null,
-      "startsAt": "2026-09-25T18:00:00.000Z",
-      "endsAt": "2026-09-25T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-a-language",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12413/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "early-learning-playtime-2026-09-25-12415",
       "title": "Early Learning Playtime",
