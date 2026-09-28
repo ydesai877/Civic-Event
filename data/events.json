@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-27T23:32:48.051Z",
+  "generatedAt": "2026-09-28T19:57:34.979Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 403
+      "fetched": 404
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 230
+      "fetched": 232
     }
   ],
   "sources": [
@@ -29,26 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "costume-swap-donation-2026-09-27-13121",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-27T15:30:00.000Z",
-      "endsAt": "2026-09-27T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13121/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "family-movie-the-bad-guys-2-2026-09-27-12417",
       "title": "Family Movie: The Bad Guys 2",
@@ -1565,26 +1545,6 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/11858/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "second-saturday-workday-2026-10-11-13307",
-      "title": "Second Saturday Workday",
-      "description": null,
-      "startsAt": "2026-10-11T17:00:00.000Z",
-      "endsAt": "2026-10-11T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13307/19",
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
@@ -3136,6 +3096,27 @@
       ]
     },
     {
+      "slug": "rewiring-your-heart-for-authentic-connection-with-mark-groves-2026-10-27-13408",
+      "title": "Rewiring Your Heart for Authentic Connection with Mark Groves",
+      "description": null,
+      "startsAt": "2026-10-27T18:00:00.000Z",
+      "endsAt": "2026-10-27T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13408/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "fun-on-the-run-washington-park-2026-10-27-13080",
       "title": "Fun on the Run - Washington Park",
       "description": null,
@@ -3600,6 +3581,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12588/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "repair-cafe-2026-10-31-13410",
+      "title": "Repair Café",
+      "description": null,
+      "startsAt": "2026-10-31T18:00:00.000Z",
+      "endsAt": "2026-10-31T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13410/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
