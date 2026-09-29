@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-28T19:57:34.979Z",
+  "generatedAt": "2026-09-29T00:47:21.373Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 404
+      "fetched": 411
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 232
+      "fetched": 237
     }
   ],
   "sources": [
@@ -29,27 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "family-movie-the-bad-guys-2-2026-09-27-12417",
-      "title": "Family Movie: The Bad Guys 2",
-      "description": null,
-      "startsAt": "2026-09-27T21:00:00.000Z",
-      "endsAt": "2026-09-27T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "music-dance",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12417/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "costume-swap-donation-2026-09-28-13122",
       "title": "Costume Swap Donation",
@@ -705,6 +684,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "2026-sunnyvale-diwali-festival-2026-10-03-13412",
+      "title": "2026 Sunnyvale Diwali Festival",
+      "description": null,
+      "startsAt": "2026-10-03T18:30:00.000Z",
+      "endsAt": "2026-10-03T20:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13412/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -1551,6 +1550,26 @@
       ]
     },
     {
+      "slug": "compassion-week-service-fest-2026-10-11-13414",
+      "title": "Compassion Week Service Fest",
+      "description": null,
+      "startsAt": "2026-10-11T20:00:00.000Z",
+      "endsAt": "2026-10-11T21:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13414/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "autumn-japanese-storytime-2026-10-11-12644",
       "title": "Autumn Japanese Storytime",
       "description": null,
@@ -1917,6 +1936,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12569/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "halloween-craft-2026-10-14-13418",
+      "title": "Halloween Craft",
+      "description": null,
+      "startsAt": "2026-10-14T23:00:00.000Z",
+      "endsAt": "2026-10-15T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13418/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -3629,6 +3669,27 @@
       ]
     },
     {
+      "slug": "duniya-dance-bollywood-bhangra-2026-11-01-13420",
+      "title": "Duniya Dance Bollywood & Bhangra",
+      "description": null,
+      "startsAt": "2026-11-01T22:30:00.000Z",
+      "endsAt": "2026-11-02T00:00:00.000Z",
+      "allDay": false,
+      "eventType": "music-dance",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13420/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "esl-conversation-group-2026-11-02-12847",
       "title": "ESL Conversation Group",
       "description": null,
@@ -3670,6 +3731,27 @@
       ]
     },
     {
+      "slug": "death-cafe-2026-11-02-13422",
+      "title": "Death Café",
+      "description": null,
+      "startsAt": "2026-11-03T02:30:00.000Z",
+      "endsAt": "2026-11-03T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13422/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "ask-a-master-gardener-2026-11-03-13331",
       "title": "Ask a Master Gardener",
       "description": null,
@@ -3704,6 +3786,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13236/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "sacred-indigenous-teachings-with-asha-frost-2026-11-03-13424",
+      "title": "Sacred Indigenous Teachings with Asha Frost",
+      "description": null,
+      "startsAt": "2026-11-03T19:00:00.000Z",
+      "endsAt": "2026-11-03T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13424/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -3872,6 +3975,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "silent-book-club-2026-11-04-13426",
+      "title": "Silent Book Club",
+      "description": null,
+      "startsAt": "2026-11-05T02:30:00.000Z",
+      "endsAt": "2026-11-05T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "books-authors",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13426/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
