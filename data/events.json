@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:47:21.373Z",
+  "generatedAt": "2026-09-29T18:25:36.848Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,26 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "costume-swap-donation-2026-09-28-13122",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-28T15:30:00.000Z",
-      "endsAt": "2026-09-28T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13122/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "music-and-movement-with-jamaroo-bilingual-mandarin-cantonese-and-engli-2026-09-28-12963",
       "title": "Music and Movement with JAMaROO (Bilingual Mandarin/Cantonese and English)",
