@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:02:19.915Z",
+  "generatedAt": "2026-09-30T18:15:22.012Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "costume-design-talk-2026-09-28-12743",
-      "title": "Costume Design Talk",
-      "description": null,
-      "startsAt": "2026-09-29T01:00:00.000Z",
-      "endsAt": "2026-09-29T02:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12743/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "costume-swap-donation-2026-09-29-13123",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-29T15:30:00.000Z",
-      "endsAt": "2026-09-29T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13123/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "toddler-storytime-2026-09-29-12365",
       "title": "Toddler Storytime",
