@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-30T18:15:22.012Z",
+  "generatedAt": "2026-10-01T00:19:42.518Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 411
+      "fetched": 312
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 237
+      "fetched": 156
     }
   ],
   "sources": [
@@ -29,252 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "toddler-storytime-2026-09-29-12365",
-      "title": "Toddler Storytime",
-      "description": null,
-      "startsAt": "2026-09-29T18:00:00.000Z",
-      "endsAt": "2026-09-29T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12365/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-09-29-13043",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-09-29T21:15:00.000Z",
-      "endsAt": "2026-09-29T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13043/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "huichol-yarn-painting-2026-09-29-12419",
-      "title": "Huichol Yarn Painting",
-      "description": null,
-      "startsAt": "2026-09-29T23:00:00.000Z",
-      "endsAt": "2026-09-30T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12419/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "zumba-2026-09-29-12893",
-      "title": "Zumba",
-      "description": null,
-      "startsAt": "2026-09-30T01:30:00.000Z",
-      "endsAt": "2026-09-30T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12893/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "costume-swap-donation-2026-09-30-13124",
-      "title": "Costume Swap Donation",
-      "description": null,
-      "startsAt": "2026-09-30T15:30:00.000Z",
-      "endsAt": "2026-09-30T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13124/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "free-tenant-landlord-counseling-2026-09-30-9798",
-      "title": "Free Tenant-Landlord Counseling",
-      "description": null,
-      "startsAt": "2026-09-30T17:00:00.000Z",
-      "endsAt": "2026-09-30T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/9798/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "sewing-lab-2026-09-30-12837",
-      "title": "Sewing Lab",
-      "description": null,
-      "startsAt": "2026-09-30T17:00:00.000Z",
-      "endsAt": "2026-09-30T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12837/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "preschool-storytime-2026-09-30-12361",
-      "title": "Preschool Storytime",
-      "description": null,
-      "startsAt": "2026-09-30T18:00:00.000Z",
-      "endsAt": "2026-09-30T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12361/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "get-connected-2026-09-30-12102",
-      "title": "Get Connected",
-      "description": null,
-      "startsAt": "2026-09-30T21:00:00.000Z",
-      "endsAt": "2026-09-30T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "computer-help",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12102/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-serra-park-2026-09-30-13016",
-      "title": "Fun on the Run - Serra Park",
-      "description": null,
-      "startsAt": "2026-09-30T21:15:00.000Z",
-      "endsAt": "2026-09-30T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13016/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "kids-graphic-novel-club-2026-09-30-12421",
-      "title": "Kids Graphic Novel Club",
-      "description": null,
-      "startsAt": "2026-09-30T23:00:00.000Z",
-      "endsAt": "2026-10-01T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "graphic-novels",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12421/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "movie-ordinary-people-1980-w-film-professor-intro-discussion-2026-09-30-12969",
-      "title": "Movie: Ordinary People (1980) w/ Film Professor Intro & Discussion",
-      "description": null,
-      "startsAt": "2026-10-01T01:00:00.000Z",
-      "endsAt": "2026-10-01T02:30:00.000Z",
-      "allDay": false,
-      "eventType": "music-dance",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12969/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "baby-lapsit-playtime-2026-10-01-12577",
       "title": "Baby Lapsit & Playtime",
@@ -5654,6 +5408,1211 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "ask-a-master-gardener-2026-12-01-13327",
+      "title": "Ask a Master Gardener",
+      "description": null,
+      "startsAt": "2026-12-01T18:00:00.000Z",
+      "endsAt": "2026-12-01T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13327/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-ponderosa-park-2026-12-01-13049",
+      "title": "Fun on the Run - Ponderosa Park",
+      "description": null,
+      "startsAt": "2026-12-01T22:15:00.000Z",
+      "endsAt": "2026-12-01T23:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13049/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "medical-services-for-adults-2026-12-01-13141",
+      "title": "Medical Services for Adults",
+      "description": null,
+      "startsAt": "2026-12-02T00:00:00.000Z",
+      "endsAt": "2026-12-02T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "adults",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13141/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-01-12933",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-12-02T02:30:00.000Z",
+      "endsAt": "2026-12-02T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12933/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-12-02-12829",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-02T18:00:00.000Z",
+      "endsAt": "2026-12-02T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12829/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-serra-park-2026-12-02-13024",
+      "title": "Fun on the Run - Serra Park",
+      "description": null,
+      "startsAt": "2026-12-02T22:15:00.000Z",
+      "endsAt": "2026-12-02T23:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13024/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-ponderosa-park-2026-12-03-13074",
+      "title": "Fun on the Run - Ponderosa Park",
+      "description": null,
+      "startsAt": "2026-12-03T22:15:00.000Z",
+      "endsAt": "2026-12-03T23:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13074/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-03-12932",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-12-04T02:30:00.000Z",
+      "endsAt": "2026-12-04T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12932/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "open-garden-fridays-2026-12-04-13294",
+      "title": "Open Garden Fridays",
+      "description": null,
+      "startsAt": "2026-12-04T19:00:00.000Z",
+      "endsAt": "2026-12-04T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13294/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "kids-night-out-2026-12-04-13090",
+      "title": "Kids Night Out",
+      "description": null,
+      "startsAt": "2026-12-05T02:00:00.000Z",
+      "endsAt": "2026-12-05T03:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "kids",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13090/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "youth-drop-in-basketball-2026-12-04-12298",
+      "title": "Youth Drop-In Basketball",
+      "description": null,
+      "startsAt": "2026-12-05T03:00:00.000Z",
+      "endsAt": "2026-12-05T04:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12298/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "breakfast-with-santa-2026-12-05-12563",
+      "title": "Breakfast with Santa",
+      "description": null,
+      "startsAt": "2026-12-05T16:30:00.000Z",
+      "endsAt": "2026-12-05T18:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12563/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-yoga-2026-12-05-13170",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-12-05T17:15:00.000Z",
+      "endsAt": "2026-12-05T18:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13170/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-12-05-13206",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-12-05T20:30:00.000Z",
+      "endsAt": "2026-12-05T22:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13206/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "ask-a-master-gardener-2026-12-08-13326",
+      "title": "Ask a Master Gardener",
+      "description": null,
+      "startsAt": "2026-12-08T18:00:00.000Z",
+      "endsAt": "2026-12-08T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13326/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-ponderosa-park-2026-12-08-13050",
+      "title": "Fun on the Run - Ponderosa Park",
+      "description": null,
+      "startsAt": "2026-12-08T22:15:00.000Z",
+      "endsAt": "2026-12-08T23:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13050/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-08-12931",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-12-09T02:30:00.000Z",
+      "endsAt": "2026-12-09T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12931/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-12-09-12828",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-09T18:00:00.000Z",
+      "endsAt": "2026-12-09T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12828/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "parents-helping-parents-2026-12-09-12430",
+      "title": "Parents Helping Parents",
+      "description": null,
+      "startsAt": "2026-12-09T19:00:00.000Z",
+      "endsAt": "2026-12-09T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12430/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-serra-park-2026-12-09-13025",
+      "title": "Fun on the Run - Serra Park",
+      "description": null,
+      "startsAt": "2026-12-09T22:15:00.000Z",
+      "endsAt": "2026-12-09T23:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13025/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-ponderosa-park-2026-12-10-13075",
+      "title": "Fun on the Run - Ponderosa Park",
+      "description": null,
+      "startsAt": "2026-12-10T22:15:00.000Z",
+      "endsAt": "2026-12-10T23:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13075/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-10-12930",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-12-11T02:30:00.000Z",
+      "endsAt": "2026-12-11T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12930/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "open-garden-fridays-2026-12-11-13293",
+      "title": "Open Garden Fridays",
+      "description": null,
+      "startsAt": "2026-12-11T19:00:00.000Z",
+      "endsAt": "2026-12-11T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13293/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "youth-drop-in-basketball-2026-12-11-12299",
+      "title": "Youth Drop-In Basketball",
+      "description": null,
+      "startsAt": "2026-12-12T03:00:00.000Z",
+      "endsAt": "2026-12-12T04:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12299/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-yoga-2026-12-12-13169",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-12-12T17:15:00.000Z",
+      "endsAt": "2026-12-12T18:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13169/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "second-saturday-workday-2026-12-12-13307",
+      "title": "Second Saturday Workday",
+      "description": null,
+      "startsAt": "2026-12-12T18:00:00.000Z",
+      "endsAt": "2026-12-12T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13307/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-12-12-13205",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-12-12T20:30:00.000Z",
+      "endsAt": "2026-12-12T22:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13205/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "animal-assisted-happiness-farm-2026-12-13-11860",
+      "title": "Animal Assisted Happiness Farm",
+      "description": null,
+      "startsAt": "2026-12-13T18:00:00.000Z",
+      "endsAt": "2026-12-13T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/11860/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "esl-conversation-group-2026-12-14-12844",
+      "title": "ESL Conversation Group",
+      "description": null,
+      "startsAt": "2026-12-14T22:00:00.000Z",
+      "endsAt": "2026-12-14T23:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-english",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12844/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "ask-a-master-gardener-2026-12-15-13325",
+      "title": "Ask a Master Gardener",
+      "description": null,
+      "startsAt": "2026-12-15T18:00:00.000Z",
+      "endsAt": "2026-12-15T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13325/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-ponderosa-park-2026-12-15-13051",
+      "title": "Fun on the Run - Ponderosa Park",
+      "description": null,
+      "startsAt": "2026-12-15T22:15:00.000Z",
+      "endsAt": "2026-12-15T23:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13051/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "medical-services-for-adults-2026-12-15-13140",
+      "title": "Medical Services for Adults",
+      "description": null,
+      "startsAt": "2026-12-16T00:00:00.000Z",
+      "endsAt": "2026-12-16T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "adults",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13140/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-15-12929",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-12-16T02:30:00.000Z",
+      "endsAt": "2026-12-16T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12929/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-12-16-12827",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-16T18:00:00.000Z",
+      "endsAt": "2026-12-16T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12827/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-serra-park-2026-12-16-13026",
+      "title": "Fun on the Run - Serra Park",
+      "description": null,
+      "startsAt": "2026-12-16T22:15:00.000Z",
+      "endsAt": "2026-12-16T23:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13026/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "fun-on-the-run-ponderosa-park-2026-12-17-13076",
+      "title": "Fun on the Run - Ponderosa Park",
+      "description": null,
+      "startsAt": "2026-12-17T22:15:00.000Z",
+      "endsAt": "2026-12-17T23:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13076/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-17-12928",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-12-18T02:30:00.000Z",
+      "endsAt": "2026-12-18T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12928/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "open-garden-fridays-2026-12-18-13292",
+      "title": "Open Garden Fridays",
+      "description": null,
+      "startsAt": "2026-12-18T19:00:00.000Z",
+      "endsAt": "2026-12-18T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13292/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "youth-drop-in-basketball-2026-12-18-12300",
+      "title": "Youth Drop-In Basketball",
+      "description": null,
+      "startsAt": "2026-12-19T03:00:00.000Z",
+      "endsAt": "2026-12-19T04:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12300/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-yoga-2026-12-19-13168",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-12-19T17:15:00.000Z",
+      "endsAt": "2026-12-19T18:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13168/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-12-19-13204",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-12-19T20:30:00.000Z",
+      "endsAt": "2026-12-19T22:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13204/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "evening-of-cultural-arts-the-best-intentions-motown-christmas-2026-12-20-12505",
+      "title": "Evening of Cultural Arts: The Best Intentions Motown Christmas",
+      "description": null,
+      "startsAt": "2026-12-21T03:00:00.000Z",
+      "endsAt": "2026-12-21T04:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12505/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "ask-a-master-gardener-2026-12-22-13324",
+      "title": "Ask a Master Gardener",
+      "description": null,
+      "startsAt": "2026-12-22T18:00:00.000Z",
+      "endsAt": "2026-12-22T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13324/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-22-12927",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-12-23T02:30:00.000Z",
+      "endsAt": "2026-12-23T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12927/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "library-closes-at-6-p-m-2026-12-23-10277",
+      "title": "Library Closes at 6 p.m.",
+      "description": null,
+      "startsAt": "2026-12-23T08:00:00.000Z",
+      "endsAt": "2026-12-24T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10277/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "city-holiday-christmas-eve-2026-12-24-10603",
+      "title": "City Holiday - Christmas Eve",
+      "description": null,
+      "startsAt": "2026-12-24T08:00:00.000Z",
+      "endsAt": "2026-12-25T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/10603/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "library-closed-2026-12-24-10279",
+      "title": "Library Closed",
+      "description": null,
+      "startsAt": "2026-12-24T08:00:00.000Z",
+      "endsAt": "2026-12-25T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10279/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-24-12926",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-12-25T02:30:00.000Z",
+      "endsAt": "2026-12-25T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12926/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "city-holiday-christmas-day-2026-12-25-10631",
+      "title": "City Holiday - Christmas Day",
+      "description": null,
+      "startsAt": "2026-12-25T08:00:00.000Z",
+      "endsAt": "2026-12-26T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/10631/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "library-closed-2026-12-25-10281",
+      "title": "Library Closed",
+      "description": null,
+      "startsAt": "2026-12-25T08:00:00.000Z",
+      "endsAt": "2026-12-26T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10281/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "drop-in-yoga-2026-12-26-13167",
+      "title": "Drop-in Yoga",
+      "description": null,
+      "startsAt": "2026-12-26T17:15:00.000Z",
+      "endsAt": "2026-12-26T18:45:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13167/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "drop-in-pickleball-2026-12-26-13203",
+      "title": "Drop-in Pickleball",
+      "description": null,
+      "startsAt": "2026-12-26T20:30:00.000Z",
+      "endsAt": "2026-12-26T22:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13203/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "esl-conversation-group-2026-12-28-12843",
+      "title": "ESL Conversation Group",
+      "description": null,
+      "startsAt": "2026-12-28T22:00:00.000Z",
+      "endsAt": "2026-12-28T23:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-english",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12843/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "ask-a-master-gardener-2026-12-29-13323",
+      "title": "Ask a Master Gardener",
+      "description": null,
+      "startsAt": "2026-12-29T18:00:00.000Z",
+      "endsAt": "2026-12-29T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13323/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "medical-services-for-adults-2026-12-29-13139",
+      "title": "Medical Services for Adults",
+      "description": null,
+      "startsAt": "2026-12-30T00:00:00.000Z",
+      "endsAt": "2026-12-30T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "adults",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13139/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-29-12925",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2026-12-30T02:30:00.000Z",
+      "endsAt": "2026-12-30T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12925/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "library-closes-at-6-p-m-2026-12-30-10283",
+      "title": "Library Closes at 6 p.m.",
+      "description": null,
+      "startsAt": "2026-12-30T08:00:00.000Z",
+      "endsAt": "2026-12-31T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10283/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "city-holiday-new-year-s-eve-2026-12-31-10643",
+      "title": "City Holiday - New Year's Eve",
+      "description": null,
+      "startsAt": "2026-12-31T08:00:00.000Z",
+      "endsAt": "2027-01-01T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/10643/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "library-closed-2026-12-31-10285",
+      "title": "Library Closed",
+      "description": null,
+      "startsAt": "2026-12-31T08:00:00.000Z",
+      "endsAt": "2027-01-01T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10285/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "zumba-2026-12-31-13128",
+      "title": "Zumba",
+      "description": null,
+      "startsAt": "2027-01-01T02:30:00.000Z",
+      "endsAt": "2027-01-01T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": true,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13128/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     }
   ]
