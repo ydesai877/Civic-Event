@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T00:25:18.435Z",
+  "generatedAt": "2026-10-02T18:10:25.094Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 312
+      "fetched": 316
     },
     {
       "sourceId": "sunnyvale-library",
@@ -1017,6 +1017,26 @@
       ]
     },
     {
+      "slug": "extra-dumping-event-2026-10-10-13336",
+      "title": "Extra Dumping Event",
+      "description": null,
+      "startsAt": "2026-10-10T15:30:00.000Z",
+      "endsAt": "2026-10-10T17:00:00.000Z",
+      "allDay": false,
+      "eventType": "environment",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13336/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "sunnyvale-farmers-market-2026-10-10-11421",
       "title": "Sunnyvale Farmers' Market",
       "description": null,
@@ -1178,6 +1198,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "extra-dumping-event-2026-10-11-13338",
+      "title": "Extra Dumping Event",
+      "description": null,
+      "startsAt": "2026-10-11T15:30:00.000Z",
+      "endsAt": "2026-10-11T17:00:00.000Z",
+      "allDay": false,
+      "eventType": "environment",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13338/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -1841,6 +1881,26 @@
       ]
     },
     {
+      "slug": "extra-dumping-event-2026-10-17-13340",
+      "title": "Extra Dumping Event",
+      "description": null,
+      "startsAt": "2026-10-17T15:30:00.000Z",
+      "endsAt": "2026-10-17T17:00:00.000Z",
+      "allDay": false,
+      "eventType": "environment",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13340/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
+      ]
+    },
+    {
       "slug": "sunnyvale-farmers-market-2026-10-17-11420",
       "title": "Sunnyvale Farmers' Market",
       "description": null,
@@ -1980,6 +2040,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "extra-dumping-event-2026-10-18-13342",
+      "title": "Extra Dumping Event",
+      "description": null,
+      "startsAt": "2026-10-18T15:30:00.000Z",
+      "endsAt": "2026-10-18T17:00:00.000Z",
+      "allDay": false,
+      "eventType": "environment",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13342/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
