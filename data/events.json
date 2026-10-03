@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T16:56:37.725Z",
+  "generatedAt": "2026-10-03T23:28:25.035Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,68 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "yarn-lab-2026-10-02-12213",
-      "title": "Yarn Lab",
-      "description": null,
-      "startsAt": "2026-10-02T17:00:00.000Z",
-      "endsAt": "2026-10-02T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12213/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "storytime-at-magical-bridge-playground-2026-10-02-12623",
-      "title": "Storytime at Magical Bridge Playground",
-      "description": null,
-      "startsAt": "2026-10-02T18:00:00.000Z",
-      "endsAt": "2026-10-02T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12623/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "open-garden-fridays-2026-10-02-13280",
-      "title": "Open Garden Fridays",
-      "description": null,
-      "startsAt": "2026-10-02T18:00:00.000Z",
-      "endsAt": "2026-10-02T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13280/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "hispanic-american-heritage-month-movie-la-bamba-1987-2026-10-02-12971",
       "title": "Hispanic American Heritage Month Movie: La Bamba (1987)",
