@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:06:42.800Z",
+  "generatedAt": "2026-10-03T16:56:37.725Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,109 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "virtual-author-talk-with-veronica-roth-2026-10-01-12945",
-      "title": "Virtual Author Talk with Veronica Roth",
-      "description": null,
-      "startsAt": "2026-10-01T23:00:00.000Z",
-      "endsAt": "2026-10-02T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "books-authors",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12945/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "bilingual-hindi-english-storytime-craft-2026-10-01-13222",
-      "title": "Bilingual Hindi-English Storytime & Craft",
-      "description": null,
-      "startsAt": "2026-10-01T23:00:00.000Z",
-      "endsAt": "2026-10-02T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-a-language",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13222/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "teens-create-mexican-tin-hearts-2026-10-01-12621",
-      "title": "Teens Create: Mexican Tin Hearts",
-      "description": null,
-      "startsAt": "2026-10-02T00:00:00.000Z",
-      "endsAt": "2026-10-02T01:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "teens",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12621/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "summer-orchard-music-series-2026-10-01-12995",
-      "title": "Summer Orchard Music Series",
-      "description": null,
-      "startsAt": "2026-10-02T01:00:00.000Z",
-      "endsAt": "2026-10-02T02:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12995/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "zumba-2026-10-01-12892",
-      "title": "Zumba",
-      "description": null,
-      "startsAt": "2026-10-02T01:30:00.000Z",
-      "endsAt": "2026-10-02T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12892/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "yarn-lab-2026-10-02-12213",
       "title": "Yarn Lab",
