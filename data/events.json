@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T18:10:25.094Z",
+  "generatedAt": "2026-10-03T00:06:42.800Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "baby-lapsit-playtime-2026-10-01-12577",
-      "title": "Baby Lapsit & Playtime",
-      "description": null,
-      "startsAt": "2026-10-01T17:30:00.000Z",
-      "endsAt": "2026-10-01T19:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12577/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-10-01-13068",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-10-01T21:15:00.000Z",
-      "endsAt": "2026-10-01T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13068/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "virtual-author-talk-with-veronica-roth-2026-10-01-12945",
       "title": "Virtual Author Talk with Veronica Roth",
