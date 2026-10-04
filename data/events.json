@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:28:25.035Z",
+  "generatedAt": "2026-10-04T17:14:43.646Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "hispanic-american-heritage-month-movie-la-bamba-1987-2026-10-02-12971",
-      "title": "Hispanic American Heritage Month Movie: La Bamba (1987)",
-      "description": null,
-      "startsAt": "2026-10-02T22:30:00.000Z",
-      "endsAt": "2026-10-03T00:00:00.000Z",
-      "allDay": false,
-      "eventType": "music-dance",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12971/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "youth-drop-in-basketball-2026-10-02-12290",
-      "title": "Youth Drop-In Basketball",
-      "description": null,
-      "startsAt": "2026-10-03T02:00:00.000Z",
-      "endsAt": "2026-10-03T03:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12290/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "sunnyvale-farmers-market-2026-10-03-11422",
       "title": "Sunnyvale Farmers' Market",
