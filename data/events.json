@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T23:46:35.815Z",
+  "generatedAt": "2026-10-06T01:38:30.157Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 316
+      "fetched": 317
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 156
+      "fetched": 157
     }
   ],
   "sources": [
@@ -29,27 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "hispanic-heritage-month-celebration-2026-10-04-12987",
-      "title": "Hispanic Heritage Month Celebration",
-      "description": null,
-      "startsAt": "2026-10-04T21:00:00.000Z",
-      "endsAt": "2026-10-04T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "culture-traditions",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12987/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "esl-conversation-group-2026-10-05-12849",
       "title": "ESL Conversation Group",
@@ -597,7 +576,7 @@
       "audience": "all",
       "typeSource": "inferred",
       "audienceSource": "inferred",
-      "locationText": null,
+      "locationText": "Sunnyvale Public Library",
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13374/74",
@@ -2966,6 +2945,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "lakewood-branch-library-and-learning-center-grand-opening-2026-10-31-13428",
+      "title": "Lakewood Branch Library and Learning Center Grand Opening",
+      "description": null,
+      "startsAt": "2026-10-31T17:00:00.000Z",
+      "endsAt": "2026-10-31T18:30:00.000Z",
+      "allDay": false,
+      "eventType": "celebrations",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13428/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
