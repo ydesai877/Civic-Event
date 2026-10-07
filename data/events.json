@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T00:18:39.428Z",
+  "generatedAt": "2026-10-07T19:11:07.357Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,26 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "ask-a-master-gardener-2026-10-06-13310",
-      "title": "Ask a Master Gardener",
-      "description": null,
-      "startsAt": "2026-10-06T17:00:00.000Z",
-      "endsAt": "2026-10-06T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13310/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "toddler-storytime-2026-10-06-12597",
       "title": "Toddler Storytime",
