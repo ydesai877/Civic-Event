@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T19:11:07.357Z",
+  "generatedAt": "2026-10-08T00:40:11.443Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,109 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "toddler-storytime-2026-10-06-12597",
-      "title": "Toddler Storytime",
-      "description": null,
-      "startsAt": "2026-10-06T18:00:00.000Z",
-      "endsAt": "2026-10-06T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12597/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "a-fresh-take-on-italian-classics-with-joe-sasto-2026-10-06-12947",
-      "title": "A Fresh Take on Italian Classics with Joe Sasto",
-      "description": null,
-      "startsAt": "2026-10-06T18:00:00.000Z",
-      "endsAt": "2026-10-06T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12947/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "level-up-adult-literacy-info-session-2026-10-06-12965",
-      "title": "Level Up Adult Literacy Info Session",
-      "description": null,
-      "startsAt": "2026-10-06T21:00:00.000Z",
-      "endsAt": "2026-10-06T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "writing-literacy",
-      "audience": "adults",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12965/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-10-06-13044",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-10-06T21:15:00.000Z",
-      "endsAt": "2026-10-06T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13044/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "medical-services-for-adults-2026-10-06-13145",
-      "title": "Medical Services for Adults",
-      "description": null,
-      "startsAt": "2026-10-06T23:00:00.000Z",
-      "endsAt": "2026-10-07T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "adults",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13145/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "adults-create-faux-taxidermy-insects-2026-10-06-12851",
       "title": "Adults Create: Faux Taxidermy Insects",
