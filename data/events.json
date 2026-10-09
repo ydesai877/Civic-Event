@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-09T00:56:05.268Z",
+  "generatedAt": "2026-10-09T18:37:36.012Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 344
+      "fetched": 347
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 184
+      "fetched": 186
     }
   ],
   "sources": [
@@ -29,27 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "silent-book-club-2026-10-07-12853",
-      "title": "Silent Book Club",
-      "description": null,
-      "startsAt": "2026-10-08T01:30:00.000Z",
-      "endsAt": "2026-10-08T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "books-authors",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12853/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "baby-lapsit-playtime-2026-10-08-12595",
       "title": "Baby Lapsit & Playtime",
@@ -2272,6 +2251,27 @@
       ]
     },
     {
+      "slug": "our-local-food-systems-challenges-and-community-solutions-2026-10-27-13486",
+      "title": "Our Local Food Systems: Challenges and Community Solutions",
+      "description": null,
+      "startsAt": "2026-10-28T01:00:00.000Z",
+      "endsAt": "2026-10-28T02:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13486/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "zumba-2026-10-27-12885",
       "title": "Zumba",
       "description": null,
@@ -3692,6 +3692,27 @@
       ]
     },
     {
+      "slug": "rethinking-wealth-and-greed-in-modern-society-with-paul-vigna-2026-11-11-13488",
+      "title": "Rethinking Wealth and Greed in Modern Society with Paul Vigna",
+      "description": null,
+      "startsAt": "2026-11-11T19:00:00.000Z",
+      "endsAt": "2026-11-11T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13488/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "get-connected-2026-11-11-12096",
       "title": "Get Connected",
       "description": null,
@@ -4306,6 +4327,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "parents-helping-parents-2026-11-18-13416",
+      "title": "Parents Helping Parents",
+      "description": null,
+      "startsAt": "2026-11-18T19:00:00.000Z",
+      "endsAt": "2026-11-18T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13416/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
