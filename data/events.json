@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-08T19:07:06.194Z",
+  "generatedAt": "2026-10-09T00:56:05.268Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 339
+      "fetched": 344
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 179
+      "fetched": 184
     }
   ],
   "sources": [
@@ -29,68 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "preschool-storytime-2026-10-07-12605",
-      "title": "Preschool Storytime",
-      "description": null,
-      "startsAt": "2026-10-07T18:00:00.000Z",
-      "endsAt": "2026-10-07T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12605/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "get-connected-2026-10-07-12101",
-      "title": "Get Connected",
-      "description": null,
-      "startsAt": "2026-10-07T21:00:00.000Z",
-      "endsAt": "2026-10-07T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "computer-help",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12101/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-serra-park-2026-10-07-13017",
-      "title": "Fun on the Run - Serra Park",
-      "description": null,
-      "startsAt": "2026-10-07T21:15:00.000Z",
-      "endsAt": "2026-10-07T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13017/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "silent-book-club-2026-10-07-12853",
       "title": "Silent Book Club",
@@ -5124,6 +5062,27 @@
       ]
     },
     {
+      "slug": "northern-lights-chalk-art-2026-12-01-13476",
+      "title": "Northern Lights Chalk Art",
+      "description": null,
+      "startsAt": "2026-12-02T00:00:00.000Z",
+      "endsAt": "2026-12-02T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13476/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "zumba-2026-12-01-12933",
       "title": "Zumba",
       "description": null,
@@ -5247,6 +5206,27 @@
       ]
     },
     {
+      "slug": "teens-create-lip-balm-workshop-2026-12-03-13478",
+      "title": "Teens Create: Lip Balm Workshop",
+      "description": null,
+      "startsAt": "2026-12-04T01:00:00.000Z",
+      "endsAt": "2026-12-04T02:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "teens",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13478/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "zumba-2026-12-03-12932",
       "title": "Zumba",
       "description": null,
@@ -5305,6 +5285,48 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "storytime-at-magical-bridge-playground-2026-12-04-13480",
+      "title": "Storytime at Magical Bridge Playground",
+      "description": null,
+      "startsAt": "2026-12-04T19:00:00.000Z",
+      "endsAt": "2026-12-04T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13480/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "holiday-postcards-2026-12-04-13482",
+      "title": "Holiday Postcards",
+      "description": null,
+      "startsAt": "2026-12-05T00:00:00.000Z",
+      "endsAt": "2026-12-05T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13482/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5487,6 +5509,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "lego-builders-2026-12-08-13484",
+      "title": "Lego Builders",
+      "description": null,
+      "startsAt": "2026-12-09T00:00:00.000Z",
+      "endsAt": "2026-12-09T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13484/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
