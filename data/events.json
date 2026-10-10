@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T18:37:36.012Z",
+  "generatedAt": "2026-10-10T00:26:07.470Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,68 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "baby-lapsit-playtime-2026-10-08-12595",
-      "title": "Baby Lapsit & Playtime",
-      "description": null,
-      "startsAt": "2026-10-08T17:30:00.000Z",
-      "endsAt": "2026-10-08T19:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12595/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "art-in-flight-reinventing-postmodernism-with-smithsonian-curator-carol-2026-10-08-12949",
-      "title": "Art in Flight: Reinventing Postmodernism with Smithsonian Curator Carolyn Russo",
-      "description": null,
-      "startsAt": "2026-10-08T18:00:00.000Z",
-      "endsAt": "2026-10-08T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12949/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-10-08-13069",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-10-08T21:15:00.000Z",
-      "endsAt": "2026-10-08T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13069/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "bilingual-hindi-english-storytime-craft-2026-10-08-13232",
       "title": "Bilingual Hindi-English Storytime & Craft",
