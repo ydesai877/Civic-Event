@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T17:35:44.485Z",
+  "generatedAt": "2026-10-11T00:04:01.518Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,68 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "sensory-storytime-2026-10-09-12626",
-      "title": "Sensory Storytime",
-      "description": null,
-      "startsAt": "2026-10-09T18:00:00.000Z",
-      "endsAt": "2026-10-09T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12626/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "open-garden-fridays-2026-10-09-13301",
-      "title": "Open Garden Fridays",
-      "description": null,
-      "startsAt": "2026-10-09T18:00:00.000Z",
-      "endsAt": "2026-10-09T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13301/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "pokemon-party-2026-10-09-13374",
-      "title": "Pokémon Party",
-      "description": null,
-      "startsAt": "2026-10-09T22:00:00.000Z",
-      "endsAt": "2026-10-09T23:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13374/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "club-de-lectura-espanol-una-conversacion-en-linea-con-autora-sofia-seg-2026-10-09-13472",
       "title": "Club de lectura español: Una conversación en línea con autora Sofía Segovia",
