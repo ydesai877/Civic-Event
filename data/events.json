@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:09:18.897Z",
+  "generatedAt": "2026-10-12T21:31:22.177Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,66 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "extra-dumping-event-2026-10-11-13338",
-      "title": "Extra Dumping Event",
-      "description": null,
-      "startsAt": "2026-10-11T15:30:00.000Z",
-      "endsAt": "2026-10-11T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "environment",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13338/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "animal-assisted-happiness-farm-2026-10-11-11858",
-      "title": "Animal Assisted Happiness Farm",
-      "description": null,
-      "startsAt": "2026-10-11T17:00:00.000Z",
-      "endsAt": "2026-10-11T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/11858/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "compassion-week-service-fest-2026-10-11-13414",
-      "title": "Compassion Week Service Fest",
-      "description": null,
-      "startsAt": "2026-10-11T20:00:00.000Z",
-      "endsAt": "2026-10-11T21:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13414/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "autumn-japanese-storytime-2026-10-11-12644",
       "title": "Autumn Japanese Storytime",
