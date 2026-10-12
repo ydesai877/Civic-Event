@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-11T17:53:12.838Z",
+  "generatedAt": "2026-10-12T00:09:18.897Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 347
+      "fetched": 348
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 186
+      "fetched": 187
     }
   ],
   "sources": [
@@ -29,130 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "second-saturday-workday-2026-10-10-13303",
-      "title": "Second Saturday Workday",
-      "description": null,
-      "startsAt": "2026-10-10T17:00:00.000Z",
-      "endsAt": "2026-10-10T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13303/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "bike-safety-information-and-repair-workshop-2026-10-10-12857",
-      "title": "Bike Safety Information and Repair Workshop",
-      "description": null,
-      "startsAt": "2026-10-10T17:30:00.000Z",
-      "endsAt": "2026-10-10T19:00:00.000Z",
-      "allDay": false,
-      "eventType": "community-resources",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12857/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "family-storytime-2026-10-10-12591",
-      "title": "Family Storytime",
-      "description": null,
-      "startsAt": "2026-10-10T18:00:00.000Z",
-      "endsAt": "2026-10-10T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12591/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "easytech-seniors-spotting-ai-scams-and-fake-messages-2026-10-10-12951",
-      "title": "EasyTech Seniors: Spotting AI Scams and Fake Messages",
-      "description": null,
-      "startsAt": "2026-10-10T19:30:00.000Z",
-      "endsAt": "2026-10-10T21:00:00.000Z",
-      "allDay": false,
-      "eventType": "artificial-intelligence",
-      "audience": "adults",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12951/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "drop-in-pickleball-2026-10-10-13214",
-      "title": "Drop-in Pickleball",
-      "description": null,
-      "startsAt": "2026-10-10T19:30:00.000Z",
-      "endsAt": "2026-10-10T21:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13214/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "celebrate-hispanic-heritage-month-with-individuo-2026-10-10-12739",
-      "title": "Celebrate Hispanic Heritage Month with IndiviDúo!",
-      "description": null,
-      "startsAt": "2026-10-10T22:00:00.000Z",
-      "endsAt": "2026-10-10T23:30:00.000Z",
-      "allDay": false,
-      "eventType": "culture-traditions",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12739/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "extra-dumping-event-2026-10-11-13338",
       "title": "Extra Dumping Event",
@@ -3669,6 +3545,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "bike-safety-information-and-repair-workshop-2026-11-14-13490",
+      "title": "Bike Safety Information and Repair Workshop",
+      "description": null,
+      "startsAt": "2026-11-14T18:30:00.000Z",
+      "endsAt": "2026-11-14T20:00:00.000Z",
+      "allDay": false,
+      "eventType": "community-resources",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13490/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
