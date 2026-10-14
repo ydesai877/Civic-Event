@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T00:04:50.330Z",
+  "generatedAt": "2026-10-14T17:43:48.347Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 353
+      "fetched": 354
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 190
+      "fetched": 191
     }
   ],
   "sources": [
@@ -29,27 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "asian-art-museum-demons-creatures-and-monsters-oh-my-2026-10-12-12957",
-      "title": "Asian Art Museum: Demons, Creatures and Monsters—Oh My!",
-      "description": null,
-      "startsAt": "2026-10-13T02:00:00.000Z",
-      "endsAt": "2026-10-13T03:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12957/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "ask-a-master-gardener-2026-10-13-13334",
       "title": "Ask a Master Gardener",
@@ -3238,6 +3217,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "zen-coloring-for-adults-2026-11-11-13502",
+      "title": "Zen Coloring for Adults",
+      "description": null,
+      "startsAt": "2026-11-12T02:30:00.000Z",
+      "endsAt": "2026-11-12T04:00:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "adults",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13502/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
