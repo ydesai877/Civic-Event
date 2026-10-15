@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T17:33:51.749Z",
+  "generatedAt": "2026-10-15T23:30:42.974Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,130 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "sewing-lab-2026-10-14-12835",
-      "title": "Sewing Lab",
-      "description": null,
-      "startsAt": "2026-10-14T17:00:00.000Z",
-      "endsAt": "2026-10-14T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12835/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "parents-helping-parents-2026-10-14-12429",
-      "title": "Parents Helping Parents",
-      "description": null,
-      "startsAt": "2026-10-14T18:00:00.000Z",
-      "endsAt": "2026-10-14T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12429/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "preschool-storytime-2026-10-14-12611",
-      "title": "Preschool Storytime",
-      "description": null,
-      "startsAt": "2026-10-14T18:00:00.000Z",
-      "endsAt": "2026-10-14T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12611/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "get-connected-2026-10-14-12100",
-      "title": "Get Connected",
-      "description": null,
-      "startsAt": "2026-10-14T21:00:00.000Z",
-      "endsAt": "2026-10-14T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "computer-help",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12100/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-serra-park-2026-10-14-13018",
-      "title": "Fun on the Run - Serra Park",
-      "description": null,
-      "startsAt": "2026-10-14T21:15:00.000Z",
-      "endsAt": "2026-10-14T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13018/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "free-tenant-landlord-counseling-2026-10-14-9821",
-      "title": "Free Tenant-Landlord Counseling",
-      "description": null,
-      "startsAt": "2026-10-14T22:00:00.000Z",
-      "endsAt": "2026-10-14T23:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/9821/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "halloween-costume-swap-2026-10-14-12569",
       "title": "Halloween Costume Swap",
@@ -3530,8 +3406,8 @@
       ]
     },
     {
-      "slug": "mad-science-mondays-diy-hydraulic-crane-lift-2026-11-16-13364",
-      "title": "Mad Science Mondays: DIY Hydraulic Crane Lift",
+      "slug": "steam-explorers-diy-hydraulic-crane-lift-2026-11-16-13364",
+      "title": "STEAM Explorers: DIY Hydraulic Crane Lift",
       "description": null,
       "startsAt": "2026-11-17T00:00:00.000Z",
       "endsAt": "2026-11-17T01:30:00.000Z",
