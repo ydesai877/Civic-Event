@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T17:08:58.229Z",
+  "generatedAt": "2026-10-16T23:12:42.280Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 355
+      "fetched": 367
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 192
+      "fetched": 203
     }
   ],
   "sources": [
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "baby-lapsit-playtime-2026-10-15-12594",
-      "title": "Baby Lapsit & Playtime",
-      "description": null,
-      "startsAt": "2026-10-15T17:30:00.000Z",
-      "endsAt": "2026-10-15T19:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12594/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-10-15-13070",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-10-15T21:15:00.000Z",
-      "endsAt": "2026-10-15T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13070/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "bilingual-hindi-english-storytime-craft-2026-10-15-13231",
       "title": "Bilingual Hindi-English Storytime & Craft",
@@ -1093,6 +1052,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "sunnyvale-halloween-pet-parade-2026-10-25-13506",
+      "title": "Sunnyvale Halloween Pet Parade",
+      "description": null,
+      "startsAt": "2026-10-25T18:00:00.000Z",
+      "endsAt": "2026-10-25T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13506/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
@@ -4200,6 +4179,27 @@
       ]
     },
     {
+      "slug": "winter-reading-program-begins-2026-12-01-13514",
+      "title": "Winter Reading Program Begins",
+      "description": null,
+      "startsAt": "2026-12-01T08:00:00.000Z",
+      "endsAt": "2026-12-02T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "books-authors",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13514/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "ask-a-master-gardener-2026-12-01-13327",
       "title": "Ask a Master Gardener",
       "description": null,
@@ -4854,14 +4854,14 @@
       ]
     },
     {
-      "slug": "baby-lapsit-playtime-2026-12-10-13466",
-      "title": "Baby Lapsit & Playtime",
+      "slug": "crafts-with-santa-2026-12-10-13466",
+      "title": "Crafts with Santa",
       "description": null,
-      "startsAt": "2026-12-10T18:30:00.000Z",
-      "endsAt": "2026-12-10T20:00:00.000Z",
+      "startsAt": "2026-12-10T19:00:00.000Z",
+      "endsAt": "2026-12-10T20:30:00.000Z",
       "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
+      "eventType": "uncategorized",
+      "audience": "all",
       "typeSource": "inferred",
       "audienceSource": "inferred",
       "locationText": "Sunnyvale Public Library",
@@ -4892,6 +4892,48 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "playful-poetry-2026-12-10-13510",
+      "title": "Playful Poetry",
+      "description": null,
+      "startsAt": "2026-12-11T00:00:00.000Z",
+      "endsAt": "2026-12-11T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "poetry-literature",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13510/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "teen-volunteer-club-with-humane-society-silicon-valley-2026-12-10-13508",
+      "title": "Teen Volunteer Club with Humane Society Silicon Valley",
+      "description": null,
+      "startsAt": "2026-12-11T01:00:00.000Z",
+      "endsAt": "2026-12-11T02:30:00.000Z",
+      "allDay": false,
+      "eventType": "volunteer",
+      "audience": "teens",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13508/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -4953,6 +4995,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sensory-storytime-2026-12-11-13512",
+      "title": "Sensory Storytime",
+      "description": null,
+      "startsAt": "2026-12-11T19:00:00.000Z",
+      "endsAt": "2026-12-11T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13512/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5077,6 +5140,48 @@
       ]
     },
     {
+      "slug": "winter-reading-celebration-2026-12-13-13516",
+      "title": "Winter Reading Celebration",
+      "description": null,
+      "startsAt": "2026-12-13T21:00:00.000Z",
+      "endsAt": "2026-12-13T22:30:00.000Z",
+      "allDay": false,
+      "eventType": "books-authors",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13516/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "asl-for-babies-2026-12-14-13518",
+      "title": "ASL for Babies",
+      "description": null,
+      "startsAt": "2026-12-14T19:00:00.000Z",
+      "endsAt": "2026-12-14T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13518/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "esl-conversation-group-2026-12-14-12844",
       "title": "ESL Conversation Group",
       "description": null,
@@ -5091,6 +5196,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12844/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "steam-explorers-snowball-catapult-2026-12-14-13520",
+      "title": "STEAM Explorers: Snowball Catapult",
+      "description": null,
+      "startsAt": "2026-12-15T00:00:00.000Z",
+      "endsAt": "2026-12-15T01:30:00.000Z",
+      "allDay": false,
+      "eventType": "steam",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13520/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -5156,6 +5282,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "paws-to-read-2026-12-15-13522",
+      "title": "Paws to Read",
+      "description": null,
+      "startsAt": "2026-12-15T23:30:00.000Z",
+      "endsAt": "2026-12-16T01:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13522/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5363,6 +5510,48 @@
       ]
     },
     {
+      "slug": "bilingual-spanish-english-storytime-craft-2026-12-18-13524",
+      "title": "Bilingual (Spanish/English) Storytime & Craft",
+      "description": null,
+      "startsAt": "2026-12-18T19:00:00.000Z",
+      "endsAt": "2026-12-18T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13524/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "early-learning-playtime-2026-12-18-13526",
+      "title": "Early Learning Playtime",
+      "description": null,
+      "startsAt": "2026-12-18T23:00:00.000Z",
+      "endsAt": "2026-12-19T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13526/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "youth-drop-in-basketball-2026-12-18-12300",
       "title": "Youth Drop-In Basketball",
       "description": null,
@@ -5461,6 +5650,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "japanese-storytime-2026-12-21-13528",
+      "title": "Japanese Storytime",
+      "description": null,
+      "startsAt": "2026-12-21T19:00:00.000Z",
+      "endsAt": "2026-12-21T20:30:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13528/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
