@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:30:42.974Z",
+  "generatedAt": "2026-10-16T17:08:58.229Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,89 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "halloween-costume-swap-2026-10-14-12569",
-      "title": "Halloween Costume Swap",
-      "description": null,
-      "startsAt": "2026-10-14T22:30:00.000Z",
-      "endsAt": "2026-10-15T00:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12569/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "halloween-craft-2026-10-14-13418",
-      "title": "Halloween Craft",
-      "description": null,
-      "startsAt": "2026-10-14T23:00:00.000Z",
-      "endsAt": "2026-10-15T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13418/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "sustainable-water-wise-edible-garden-2026-10-14-13498",
-      "title": "Sustainable Water-wise Edible Garden",
-      "description": null,
-      "startsAt": "2026-10-15T01:00:00.000Z",
-      "endsAt": "2026-10-15T02:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13498/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "financial-literacy-part-1-basic-concepts-banking-budgeting-2026-10-14-13400",
-      "title": "Financial Literacy, Part 1: Basic Concepts, Banking, Budgeting",
-      "description": null,
-      "startsAt": "2026-10-15T01:30:00.000Z",
-      "endsAt": "2026-10-15T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "writing-literacy",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13400/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "baby-lapsit-playtime-2026-10-15-12594",
       "title": "Baby Lapsit & Playtime",
