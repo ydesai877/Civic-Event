@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:05:07.172Z",
+  "generatedAt": "2026-10-17T22:49:30.736Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,68 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "bilingual-spanish-english-storytime-craft-2026-10-16-12662",
-      "title": "Bilingual (Spanish/English) Storytime & Craft",
-      "description": null,
-      "startsAt": "2026-10-16T18:00:00.000Z",
-      "endsAt": "2026-10-16T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-a-language",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12662/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "senior-center-book-group-2026-10-16-12973",
-      "title": "Senior Center Book Group",
-      "description": null,
-      "startsAt": "2026-10-16T18:00:00.000Z",
-      "endsAt": "2026-10-16T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "books-authors",
-      "audience": "adults",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12973/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "open-garden-fridays-2026-10-16-13300",
-      "title": "Open Garden Fridays",
-      "description": null,
-      "startsAt": "2026-10-16T18:00:00.000Z",
-      "endsAt": "2026-10-16T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13300/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "club-de-lectura-en-espanol-spanish-book-club-2026-10-16-13474",
       "title": "Club de lectura en español / Spanish Book Club",
