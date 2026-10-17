@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:12:42.280Z",
+  "generatedAt": "2026-10-17T16:05:07.172Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,68 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "bilingual-hindi-english-storytime-craft-2026-10-15-13231",
-      "title": "Bilingual Hindi-English Storytime & Craft",
-      "description": null,
-      "startsAt": "2026-10-15T23:00:00.000Z",
-      "endsAt": "2026-10-16T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-a-language",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13231/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "zumba-2026-10-15-12888",
-      "title": "Zumba",
-      "description": null,
-      "startsAt": "2026-10-16T01:30:00.000Z",
-      "endsAt": "2026-10-16T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12888/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "night-owl-storytime-2026-10-15-12619",
-      "title": "Night Owl Storytime",
-      "description": null,
-      "startsAt": "2026-10-16T02:00:00.000Z",
-      "endsAt": "2026-10-16T03:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12619/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "bilingual-spanish-english-storytime-craft-2026-10-16-12662",
       "title": "Bilingual (Spanish/English) Storytime & Craft",
