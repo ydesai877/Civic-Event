@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T22:49:30.736Z",
+  "generatedAt": "2026-10-18T16:18:42.544Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "club-de-lectura-en-espanol-spanish-book-club-2026-10-16-13474",
-      "title": "Club de lectura en español / Spanish Book Club",
-      "description": null,
-      "startsAt": "2026-10-16T23:00:00.000Z",
-      "endsAt": "2026-10-17T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-a-language",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13474/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "youth-drop-in-basketball-2026-10-16-12292",
-      "title": "Youth Drop-In Basketball",
-      "description": null,
-      "startsAt": "2026-10-17T02:00:00.000Z",
-      "endsAt": "2026-10-17T03:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12292/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "hazardous-waste-hhw-drop-off-2026-10-17-10481",
       "title": "Hazardous Waste (HHW) Drop-off",
