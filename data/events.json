@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-18T22:42:59.803Z",
+  "generatedAt": "2026-10-19T18:56:54.765Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 367
+      "fetched": 386
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 203
+      "fetched": 222
     }
   ],
   "sources": [
@@ -29,66 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "hazardous-waste-hhw-drop-off-2026-10-17-10481",
-      "title": "Hazardous Waste (HHW) Drop-off",
-      "description": null,
-      "startsAt": "2026-10-17T07:00:00.000Z",
-      "endsAt": "2026-10-18T06:59:00.000Z",
-      "allDay": true,
-      "eventType": "environment",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/10481/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "extra-dumping-event-2026-10-18-13342",
-      "title": "Extra Dumping Event",
-      "description": null,
-      "startsAt": "2026-10-18T15:30:00.000Z",
-      "endsAt": "2026-10-18T17:00:00.000Z",
-      "allDay": false,
-      "eventType": "environment",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13342/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "fall-plant-sale-2026-10-18-13278",
-      "title": "Fall Plant Sale",
-      "description": null,
-      "startsAt": "2026-10-18T17:00:00.000Z",
-      "endsAt": "2026-10-18T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13278/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "mindfulness-practice-2026-10-18-12979",
       "title": "Mindfulness Practice",
@@ -2007,6 +1947,27 @@
       ]
     },
     {
+      "slug": "sewing-lab-2026-11-06-13560",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-11-06T18:00:00.000Z",
+      "endsAt": "2026-11-06T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13560/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "open-garden-fridays-2026-11-06-13298",
       "title": "Open Garden Fridays",
       "description": null,
@@ -2129,6 +2090,27 @@
       ]
     },
     {
+      "slug": "spotlight-bilingual-spanish-english-storytime-2026-11-07-13563",
+      "title": "Spotlight: Bilingual Spanish-English Storytime",
+      "description": null,
+      "startsAt": "2026-11-07T18:30:00.000Z",
+      "endsAt": "2026-11-07T20:00:00.000Z",
+      "allDay": false,
+      "eventType": "learn-a-language",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13563/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "family-storytime-2026-11-07-13252",
       "title": "Family Storytime",
       "description": null,
@@ -2208,6 +2190,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-11-09-13559",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-11-09T18:00:00.000Z",
+      "endsAt": "2026-11-09T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13559/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -2708,6 +2711,27 @@
       ]
     },
     {
+      "slug": "sewing-lab-2026-11-13-13558",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-11-13T18:00:00.000Z",
+      "endsAt": "2026-11-13T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13558/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "open-garden-fridays-2026-11-13-13297",
       "title": "Open Garden Fridays",
       "description": null,
@@ -2926,6 +2950,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13440/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-11-16-13557",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-11-16T18:00:00.000Z",
+      "endsAt": "2026-11-16T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13557/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -3324,6 +3369,27 @@
       ]
     },
     {
+      "slug": "sewing-lab-2026-11-20-13556",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-11-20T18:00:00.000Z",
+      "endsAt": "2026-11-20T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13556/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "open-garden-fridays-2026-11-20-13296",
       "title": "Open Garden Fridays",
       "description": null,
@@ -3341,6 +3407,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "traveling-reptile-show-2026-11-20-13565",
+      "title": "Traveling Reptile Show",
+      "description": null,
+      "startsAt": "2026-11-20T21:00:00.000Z",
+      "endsAt": "2026-11-20T22:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13565/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -3422,6 +3509,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-11-23-13555",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-11-23T18:00:00.000Z",
+      "endsAt": "2026-11-23T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13555/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -3729,6 +3837,27 @@
       ]
     },
     {
+      "slug": "sewing-lab-2026-11-27-13554",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-11-27T18:00:00.000Z",
+      "endsAt": "2026-11-27T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13554/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "open-garden-fridays-2026-11-27-13295",
       "title": "Open Garden Fridays",
       "description": null,
@@ -3803,6 +3932,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13396/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-11-30-13553",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-11-30T18:00:00.000Z",
+      "endsAt": "2026-11-30T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13553/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -4160,6 +4310,27 @@
       ]
     },
     {
+      "slug": "sewing-lab-2026-12-04-13552",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-04T18:00:00.000Z",
+      "endsAt": "2026-12-04T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13552/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "open-garden-fridays-2026-12-04-13294",
       "title": "Open Garden Fridays",
       "description": null,
@@ -4340,6 +4511,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-12-07-13551",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-07T18:00:00.000Z",
+      "endsAt": "2026-12-07T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13551/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -4651,6 +4843,27 @@
       ]
     },
     {
+      "slug": "sewing-lab-2026-12-11-13550",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-11T18:00:00.000Z",
+      "endsAt": "2026-12-11T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13550/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "open-garden-fridays-2026-12-11-13293",
       "title": "Open Garden Fridays",
       "description": null,
@@ -4827,6 +5040,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13516/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-12-14-13549",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-14T18:00:00.000Z",
+      "endsAt": "2026-12-14T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13549/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -5163,6 +5397,27 @@
       ]
     },
     {
+      "slug": "sewing-lab-2026-12-18-13548",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-18T18:00:00.000Z",
+      "endsAt": "2026-12-18T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13548/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "open-garden-fridays-2026-12-18-13292",
       "title": "Open Garden Fridays",
       "description": null,
@@ -5326,6 +5581,27 @@
       ]
     },
     {
+      "slug": "sewing-lab-2026-12-21-13547",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-21T18:00:00.000Z",
+      "endsAt": "2026-12-21T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13547/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "japanese-storytime-2026-12-21-13528",
       "title": "Japanese Storytime",
       "description": null,
@@ -5340,6 +5616,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13528/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "winter-magic-show-2026-12-21-13567",
+      "title": "Winter Magic Show",
+      "description": null,
+      "startsAt": "2026-12-22T01:00:00.000Z",
+      "endsAt": "2026-12-22T02:30:00.000Z",
+      "allDay": false,
+      "eventType": "games-entertainment",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13567/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -5507,6 +5804,27 @@
       ]
     },
     {
+      "slug": "sewing-lab-2026-12-25-13546",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-25T18:00:00.000Z",
+      "endsAt": "2026-12-25T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13546/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "drop-in-yoga-2026-12-26-13167",
       "title": "Drop-in Yoga",
       "description": null,
@@ -5544,6 +5862,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "sewing-lab-2026-12-28-13545",
+      "title": "Sewing Lab",
+      "description": null,
+      "startsAt": "2026-12-28T18:00:00.000Z",
+      "endsAt": "2026-12-28T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "crafts-hobbies",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13545/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
