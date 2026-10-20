@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:56:54.765Z",
+  "generatedAt": "2026-10-20T00:04:37.571Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,27 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "mindfulness-practice-2026-10-18-12979",
-      "title": "Mindfulness Practice",
-      "description": null,
-      "startsAt": "2026-10-18T21:00:00.000Z",
-      "endsAt": "2026-10-18T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "health-wellness",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12979/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "healthy-smile-storytime-2026-10-19-12706",
       "title": "Healthy Smile Storytime",
