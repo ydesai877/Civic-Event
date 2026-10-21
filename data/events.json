@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:35:22.148Z",
+  "generatedAt": "2026-10-21T17:49:49.835Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,69 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "sticker-party-2026-10-19-12708",
-      "title": "Sticker Party!",
-      "description": null,
-      "startsAt": "2026-10-19T23:00:00.000Z",
-      "endsAt": "2026-10-20T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12708/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "ukulele-for-beginners-2026-10-19-12975",
-      "title": "Ukulele for Beginners",
-      "description": null,
-      "startsAt": "2026-10-20T01:30:00.000Z",
-      "endsAt": "2026-10-20T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12975/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "ukulele-for-beginners-2026-10-19-12977",
-      "title": "Ukulele for Beginners",
-      "description": null,
-      "startsAt": "2026-10-20T02:30:00.000Z",
-      "endsAt": "2026-10-20T04:00:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12977/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "ask-a-master-gardener-2026-10-20-13333",
       "title": "Ask a Master Gardener",
