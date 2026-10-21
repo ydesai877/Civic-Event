@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:49:49.835Z",
+  "generatedAt": "2026-10-21T23:52:24.345Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,67 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "ask-a-master-gardener-2026-10-20-13333",
-      "title": "Ask a Master Gardener",
-      "description": null,
-      "startsAt": "2026-10-20T17:00:00.000Z",
-      "endsAt": "2026-10-20T18:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13333/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "toddler-storytime-2026-10-20-12602",
-      "title": "Toddler Storytime",
-      "description": null,
-      "startsAt": "2026-10-20T18:00:00.000Z",
-      "endsAt": "2026-10-20T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12602/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-ponderosa-park-2026-10-20-13046",
-      "title": "Fun on the Run - Ponderosa Park",
-      "description": null,
-      "startsAt": "2026-10-20T21:15:00.000Z",
-      "endsAt": "2026-10-20T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13046/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "paws-to-read-2026-10-20-12710",
       "title": "Paws to Read",
