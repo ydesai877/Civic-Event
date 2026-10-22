@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-21T23:52:24.345Z",
+  "generatedAt": "2026-10-22T17:49:07.526Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 386
+      "fetched": 396
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 222
+      "fetched": 224
     }
   ],
   "sources": [
@@ -29,67 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "paws-to-read-2026-10-20-12710",
-      "title": "Paws to Read",
-      "description": null,
-      "startsAt": "2026-10-20T22:30:00.000Z",
-      "endsAt": "2026-10-21T00:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12710/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "medical-services-for-adults-2026-10-20-13144",
-      "title": "Medical Services for Adults",
-      "description": null,
-      "startsAt": "2026-10-20T23:00:00.000Z",
-      "endsAt": "2026-10-21T00:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "adults",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13144/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "zumba-2026-10-20-12887",
-      "title": "Zumba",
-      "description": null,
-      "startsAt": "2026-10-21T01:30:00.000Z",
-      "endsAt": "2026-10-21T03:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12887/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "sewing-lab-2026-10-21-12834",
       "title": "Sewing Lab",
@@ -3505,6 +3444,7 @@
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10271/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
+        "sunnyvale-city",
         "sunnyvale-library"
       ]
     },
@@ -3586,6 +3526,7 @@
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10273/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
+        "sunnyvale-city",
         "sunnyvale-library"
       ]
     },
@@ -3644,26 +3585,6 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10275/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "sewing-lab-2026-11-27-13554",
-      "title": "Sewing Lab",
-      "description": null,
-      "startsAt": "2026-11-27T18:00:00.000Z",
-      "endsAt": "2026-11-27T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "LAKEWOOD",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13554/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -5513,6 +5434,28 @@
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10277/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "library-closed-2026-12-24-10279",
+      "title": "Library Closed",
+      "description": null,
+      "startsAt": "2026-12-24T08:00:00.000Z",
+      "endsAt": "2026-12-25T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10279/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
         "sunnyvale-library"
       ]
     },
@@ -5537,26 +5480,6 @@
       ]
     },
     {
-      "slug": "library-closed-2026-12-24-10279",
-      "title": "Library Closed",
-      "description": null,
-      "startsAt": "2026-12-24T08:00:00.000Z",
-      "endsAt": "2026-12-25T07:59:00.000Z",
-      "allDay": true,
-      "eventType": "closure",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10279/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-library"
-      ]
-    },
-    {
       "slug": "zumba-2026-12-24-12926",
       "title": "Zumba",
       "description": null,
@@ -5574,6 +5497,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "library-closed-2026-12-25-10281",
+      "title": "Library Closed",
+      "description": null,
+      "startsAt": "2026-12-25T08:00:00.000Z",
+      "endsAt": "2026-12-26T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10281/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -5597,11 +5541,11 @@
       ]
     },
     {
-      "slug": "library-closed-2026-12-25-10281",
+      "slug": "library-closed-2026-12-26-13569",
       "title": "Library Closed",
       "description": null,
-      "startsAt": "2026-12-25T08:00:00.000Z",
-      "endsAt": "2026-12-26T07:59:00.000Z",
+      "startsAt": "2026-12-26T08:00:00.000Z",
+      "endsAt": "2026-12-27T07:59:00.000Z",
       "allDay": true,
       "eventType": "closure",
       "audience": "all",
@@ -5610,27 +5554,7 @@
       "locationText": null,
       "isOnline": false,
       "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10281/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "sewing-lab-2026-12-25-13546",
-      "title": "Sewing Lab",
-      "description": null,
-      "startsAt": "2026-12-25T18:00:00.000Z",
-      "endsAt": "2026-12-25T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "crafts-hobbies",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "LAKEWOOD",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13546/74",
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13569/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -5678,6 +5602,48 @@
       ]
     },
     {
+      "slug": "library-closed-2026-12-27-13571",
+      "title": "Library Closed",
+      "description": null,
+      "startsAt": "2026-12-27T08:00:00.000Z",
+      "endsAt": "2026-12-28T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13571/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "library-closes-at-6-p-m-2026-12-28-13573",
+      "title": "Library Closes at 6 p.m.",
+      "description": null,
+      "startsAt": "2026-12-28T08:00:00.000Z",
+      "endsAt": "2026-12-29T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13573/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "sewing-lab-2026-12-28-13545",
       "title": "Sewing Lab",
       "description": null,
@@ -5713,6 +5679,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12843/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "library-closes-at-6-p-m-2026-12-29-13575",
+      "title": "Library Closes at 6 p.m.",
+      "description": null,
+      "startsAt": "2026-12-29T08:00:00.000Z",
+      "endsAt": "2026-12-30T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13575/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -5796,6 +5783,28 @@
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10283/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "library-closed-2026-12-31-10285",
+      "title": "Library Closed",
+      "description": null,
+      "startsAt": "2026-12-31T08:00:00.000Z",
+      "endsAt": "2027-01-01T07:59:00.000Z",
+      "allDay": true,
+      "eventType": "closure",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10285/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
         "sunnyvale-library"
       ]
     },
@@ -5817,26 +5826,6 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "library-closed-2026-12-31-10285",
-      "title": "Library Closed",
-      "description": null,
-      "startsAt": "2026-12-31T08:00:00.000Z",
-      "endsAt": "2027-01-01T07:59:00.000Z",
-      "allDay": true,
-      "eventType": "closure",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/10285/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-library"
       ]
     },
     {
