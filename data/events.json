@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-23T17:39:37.240Z",
+  "generatedAt": "2026-10-23T23:46:04.289Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 399
+      "fetched": 400
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 225
+      "fetched": 226
     }
   ],
   "sources": [
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "baby-lapsit-playtime-2026-10-22-12593",
-      "title": "Baby Lapsit & Playtime",
-      "description": null,
-      "startsAt": "2026-10-22T17:30:00.000Z",
-      "endsAt": "2026-10-22T19:00:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12593/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "fun-on-the-run-washington-park-2026-10-22-13078",
-      "title": "Fun on the Run - Washington Park",
-      "description": null,
-      "startsAt": "2026-10-22T21:15:00.000Z",
-      "endsAt": "2026-10-22T22:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13078/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "bilingual-hindi-english-storytime-craft-2026-10-22-13230",
       "title": "Bilingual Hindi-English Storytime & Craft",
@@ -4982,6 +4941,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "tk-and-kindergarten-readiness-2026-12-16-13587",
+      "title": "TK and Kindergarten Readiness",
+      "description": null,
+      "startsAt": "2026-12-17T03:00:00.000Z",
+      "endsAt": "2026-12-17T04:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "Sunnyvale Public Library",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13587/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
