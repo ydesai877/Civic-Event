@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-22T23:49:24.817Z",
+  "generatedAt": "2026-10-23T17:39:37.240Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 398
+      "fetched": 399
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 224
+      "fetched": 225
     }
   ],
   "sources": [
@@ -29,48 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "successfully-navigating-college-admissions-this-fall-2026-10-21-12712",
-      "title": "Successfully Navigating College Admissions This Fall",
-      "description": null,
-      "startsAt": "2026-10-21T23:30:00.000Z",
-      "endsAt": "2026-10-22T01:00:00.000Z",
-      "allDay": false,
-      "eventType": "academic-support",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12712/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "monthly-book-group-2026-10-21-13406",
-      "title": "Monthly Book Group",
-      "description": null,
-      "startsAt": "2026-10-22T02:00:00.000Z",
-      "endsAt": "2026-10-22T03:30:00.000Z",
-      "allDay": false,
-      "eventType": "books-authors",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13406/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "baby-lapsit-playtime-2026-10-22-12593",
       "title": "Baby Lapsit & Playtime",
@@ -1155,6 +1113,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12847/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "maker-exploration-2026-11-02-13585",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-02T22:00:00.000Z",
+      "endsAt": "2026-11-02T23:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13585/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
