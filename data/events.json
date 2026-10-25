@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T16:56:29.605Z",
+  "generatedAt": "2026-10-25T22:59:12.480Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,107 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "sunnyvale-farmers-market-2026-10-24-11419",
-      "title": "Sunnyvale Farmers' Market",
-      "description": null,
-      "startsAt": "2026-10-24T16:00:00.000Z",
-      "endsAt": "2026-10-24T17:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/11419/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "drop-in-yoga-2026-10-24-13176",
-      "title": "Drop-in Yoga",
-      "description": null,
-      "startsAt": "2026-10-24T16:15:00.000Z",
-      "endsAt": "2026-10-24T17:45:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13176/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "free-basketball-clinic-2026-10-24-12495",
-      "title": "Free Basketball Clinic",
-      "description": null,
-      "startsAt": "2026-10-24T17:30:00.000Z",
-      "endsAt": "2026-10-24T19:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/12495/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "family-storytime-2026-10-24-12589",
-      "title": "Family Storytime",
-      "description": null,
-      "startsAt": "2026-10-24T18:00:00.000Z",
-      "endsAt": "2026-10-24T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "storytime",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12589/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "drop-in-pickleball-2026-10-24-13212",
-      "title": "Drop-in Pickleball",
-      "description": null,
-      "startsAt": "2026-10-24T19:30:00.000Z",
-      "endsAt": "2026-10-24T21:00:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13212/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
     {
       "slug": "a-musical-altar-una-ofrenda-musical-2026-10-24-13266",
       "title": "A Musical Altar - Una ofrenda musical",
