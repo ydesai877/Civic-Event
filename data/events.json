@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:59:12.480Z",
+  "generatedAt": "2026-10-26T18:59:42.327Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
@@ -29,27 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "a-musical-altar-una-ofrenda-musical-2026-10-24-13266",
-      "title": "A Musical Altar - Una ofrenda musical",
-      "description": null,
-      "startsAt": "2026-10-24T22:00:00.000Z",
-      "endsAt": "2026-10-24T23:30:00.000Z",
-      "allDay": false,
-      "eventType": "uncategorized",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13266/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "sunnyvale-halloween-pet-parade-2026-10-25-13506",
       "title": "Sunnyvale Halloween Pet Parade",
