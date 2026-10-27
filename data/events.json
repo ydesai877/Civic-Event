@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T18:59:42.327Z",
+  "generatedAt": "2026-10-27T00:13:18.666Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 400
+      "fetched": 401
     },
     {
       "sourceId": "sunnyvale-library",
@@ -29,47 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "sunnyvale-halloween-pet-parade-2026-10-25-13506",
-      "title": "Sunnyvale Halloween Pet Parade",
-      "description": null,
-      "startsAt": "2026-10-25T18:00:00.000Z",
-      "endsAt": "2026-10-25T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "recreation",
-      "audience": "all",
-      "typeSource": "publisher",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13506/19",
-      "primarySourceId": "sunnyvale-city",
-      "sourceIds": [
-        "sunnyvale-city"
-      ]
-    },
-    {
-      "slug": "family-movie-elio-2026-10-25-12714",
-      "title": "Family Movie: Elio",
-      "description": null,
-      "startsAt": "2026-10-25T21:00:00.000Z",
-      "endsAt": "2026-10-25T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "music-dance",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12714/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "french-bilingual-storytime-2026-10-26-13376",
       "title": "French Bilingual Storytime",
@@ -5477,6 +5436,26 @@
       "sourceIds": [
         "sunnyvale-city",
         "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "noon-year-s-eve-celebration-2026-12-30-13589",
+      "title": "Noon Year’s Eve Celebration",
+      "description": null,
+      "startsAt": "2026-12-30T18:00:00.000Z",
+      "endsAt": "2026-12-30T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "recreation",
+      "audience": "all",
+      "typeSource": "publisher",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.sunnyvale.ca.gov/Home/Components/Calendar/Event/13589/19",
+      "primarySourceId": "sunnyvale-city",
+      "sourceIds": [
+        "sunnyvale-city"
       ]
     },
     {
