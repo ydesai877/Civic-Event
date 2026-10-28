@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T18:31:14.190Z",
+  "generatedAt": "2026-10-28T00:11:49.540Z",
   "runs": [
     {
       "sourceId": "sunnyvale-city",
-      "fetched": 401
+      "fetched": 418
     },
     {
       "sourceId": "sunnyvale-library",
-      "fetched": 226
+      "fetched": 243
     }
   ],
   "sources": [
@@ -29,48 +29,6 @@
     }
   ],
   "events": [
-    {
-      "slug": "french-bilingual-storytime-2026-10-26-13376",
-      "title": "French Bilingual Storytime",
-      "description": null,
-      "startsAt": "2026-10-26T18:00:00.000Z",
-      "endsAt": "2026-10-26T19:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-a-language",
-      "audience": "kids",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": "Sunnyvale Public Library",
-      "isOnline": false,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13376/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
-    {
-      "slug": "esl-conversation-group-2026-10-26-12955",
-      "title": "ESL Conversation Group",
-      "description": null,
-      "startsAt": "2026-10-26T21:00:00.000Z",
-      "endsAt": "2026-10-26T22:30:00.000Z",
-      "allDay": false,
-      "eventType": "learn-english",
-      "audience": "all",
-      "typeSource": "inferred",
-      "audienceSource": "inferred",
-      "locationText": null,
-      "isOnline": true,
-      "cancelled": false,
-      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/12955/74",
-      "primarySourceId": "sunnyvale-library",
-      "sourceIds": [
-        "sunnyvale-city",
-        "sunnyvale-library"
-      ]
-    },
     {
       "slug": "pumpkin-painting-2026-10-26-12716",
       "title": "Pumpkin Painting",
@@ -817,14 +775,14 @@
       "slug": "maker-exploration-2026-11-02-13585",
       "title": "Maker Exploration",
       "description": null,
-      "startsAt": "2026-11-02T22:00:00.000Z",
-      "endsAt": "2026-11-02T23:30:00.000Z",
+      "startsAt": "2026-11-02T23:00:00.000Z",
+      "endsAt": "2026-11-03T00:30:00.000Z",
       "allDay": false,
       "eventType": "uncategorized",
       "audience": "all",
       "typeSource": "inferred",
       "audienceSource": "inferred",
-      "locationText": null,
+      "locationText": "LAKEWOOD",
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13585/74",
@@ -896,6 +854,27 @@
       ]
     },
     {
+      "slug": "senior-social-2026-11-03-13635",
+      "title": "Senior Social",
+      "description": null,
+      "startsAt": "2026-11-03T18:00:00.000Z",
+      "endsAt": "2026-11-03T19:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "adults",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13635/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "toddler-storytime-2026-11-03-13236",
       "title": "Toddler Storytime",
       "description": null,
@@ -955,6 +934,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "maker-exploration-2026-11-03-13617",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-03T23:00:00.000Z",
+      "endsAt": "2026-11-04T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13617/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -1040,6 +1040,27 @@
       ]
     },
     {
+      "slug": "family-storytime-2026-11-04-13633",
+      "title": "Family Storytime",
+      "description": null,
+      "startsAt": "2026-11-04T18:30:00.000Z",
+      "endsAt": "2026-11-04T20:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13633/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "preschool-storytime-2026-11-04-13240",
       "title": "Preschool Storytime",
       "description": null,
@@ -1102,6 +1123,27 @@
       ]
     },
     {
+      "slug": "maker-exploration-2026-11-04-13616",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-04T23:00:00.000Z",
+      "endsAt": "2026-11-05T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13616/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "silent-book-club-2026-11-04-13426",
       "title": "Silent Book Club",
       "description": null,
@@ -1144,6 +1186,27 @@
       ]
     },
     {
+      "slug": "family-storytime-2026-11-05-13637",
+      "title": "Family Storytime",
+      "description": null,
+      "startsAt": "2026-11-05T18:30:00.000Z",
+      "endsAt": "2026-11-05T20:00:00.000Z",
+      "allDay": false,
+      "eventType": "storytime",
+      "audience": "kids",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13637/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "fun-on-the-run-washington-park-2026-11-05-13086",
       "title": "Fun on the Run - Washington Park",
       "description": null,
@@ -1178,6 +1241,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13492/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "maker-exploration-2026-11-05-13615",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-05T23:00:00.000Z",
+      "endsAt": "2026-11-06T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13615/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -1598,6 +1682,27 @@
       ]
     },
     {
+      "slug": "maker-exploration-2026-11-09-13614",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-09T23:00:00.000Z",
+      "endsAt": "2026-11-10T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13614/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "veteran-s-day-author-visit-2026-11-09-13384",
       "title": "Veteran's Day Author Visit",
       "description": null,
@@ -1633,6 +1738,27 @@
       "isOnline": false,
       "cancelled": false,
       "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13434/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
+      "slug": "asian-art-museum-darshan-the-act-of-seeing-in-hindu-art-2026-11-09-13639",
+      "title": "Asian Art Museum: Darshan: The Act of \"Seeing\" in Hindu Art",
+      "description": null,
+      "startsAt": "2026-11-10T03:00:00.000Z",
+      "endsAt": "2026-11-10T04:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": null,
+      "isOnline": true,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13639/74",
       "primarySourceId": "sunnyvale-library",
       "sourceIds": [
         "sunnyvale-city",
@@ -1698,6 +1824,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "maker-exploration-2026-11-10-13613",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-10T23:00:00.000Z",
+      "endsAt": "2026-11-11T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13613/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -1866,6 +2013,27 @@
       ]
     },
     {
+      "slug": "maker-exploration-2026-11-11-13612",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-11T23:00:00.000Z",
+      "endsAt": "2026-11-12T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13612/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "teen-spotlight-financial-empowerment-2026-11-11-13436",
       "title": "Teen Spotlight: Financial Empowerment",
       "description": null,
@@ -1987,6 +2155,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "maker-exploration-2026-11-12-13611",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-12T23:00:00.000Z",
+      "endsAt": "2026-11-13T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13611/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -2382,6 +2571,27 @@
       ]
     },
     {
+      "slug": "maker-exploration-2026-11-16-13610",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-16T23:00:00.000Z",
+      "endsAt": "2026-11-17T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13610/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "steam-explorers-diy-hydraulic-crane-lift-2026-11-16-13364",
       "title": "STEAM Explorers: DIY Hydraulic Crane Lift",
       "description": null,
@@ -2461,6 +2671,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "maker-exploration-2026-11-17-13609",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-17T23:00:00.000Z",
+      "endsAt": "2026-11-18T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13609/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -2628,6 +2859,27 @@
       ]
     },
     {
+      "slug": "maker-exploration-2026-11-18-13608",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-18T23:00:00.000Z",
+      "endsAt": "2026-11-19T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13608/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "successfully-navigating-college-admissions-this-fall-2026-11-18-13386",
       "title": "Successfully Navigating College Admissions This Fall",
       "description": null,
@@ -2687,6 +2939,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "maker-exploration-2026-11-19-13607",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-19T23:00:00.000Z",
+      "endsAt": "2026-11-20T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13607/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
@@ -2978,6 +3251,27 @@
       ]
     },
     {
+      "slug": "maker-exploration-2026-11-23-13606",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-23T23:00:00.000Z",
+      "endsAt": "2026-11-24T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13606/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
+      ]
+    },
+    {
       "slug": "ask-a-master-gardener-2026-11-24-13328",
       "title": "Ask a Master Gardener",
       "description": null,
@@ -3015,6 +3309,27 @@
       "primarySourceId": "sunnyvale-city",
       "sourceIds": [
         "sunnyvale-city"
+      ]
+    },
+    {
+      "slug": "maker-exploration-2026-11-24-13605",
+      "title": "Maker Exploration",
+      "description": null,
+      "startsAt": "2026-11-24T23:00:00.000Z",
+      "endsAt": "2026-11-25T00:30:00.000Z",
+      "allDay": false,
+      "eventType": "uncategorized",
+      "audience": "all",
+      "typeSource": "inferred",
+      "audienceSource": "inferred",
+      "locationText": "LAKEWOOD",
+      "isOnline": false,
+      "cancelled": false,
+      "canonicalUrl": "https://www.library.sunnyvale.ca.gov/Home/Components/Calendar/Event/13605/74",
+      "primarySourceId": "sunnyvale-library",
+      "sourceIds": [
+        "sunnyvale-city",
+        "sunnyvale-library"
       ]
     },
     {
